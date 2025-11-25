@@ -1,19 +1,22 @@
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, Linkedin, Github } from 'lucide-react';
 import Image from 'next/image';
-import { Linkedin, Github } from 'lucide-react';
-
 
 interface HeroSectionProps {
   isDarkMode: boolean;
+  onDownloadCV: () => void;
 }
 
-export default function HeroSection({ isDarkMode }: HeroSectionProps) {
+export default function HeroSection({ isDarkMode, onDownloadCV }: HeroSectionProps) {
+  const scrollToContact = () => {
+    document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });
+  };
+
   return (
-    <main className="relative container mx-auto px-6 flex items-center min-h-screen md:min-h-[calc(100vh-120px)] md:pt-12 pt-6">
+    <main id="hero" className="relative container mx-auto px-6 flex items-center min-h-screen md:min-h-[calc(100vh-120px)] md:pt-12 pt-6">
       <div className="flex flex-col lg:grid lg:grid-cols-2 gap-8 items-center justify-center w-full">
 
         {/* Mobile Layout - Profile Card Style */}
-        <div className="lg:hidden flex flex-col  text-left space-y-6 w-full max-w-md">
+        <div className="lg:hidden flex flex-col text-left space-y-6 w-full max-w-md">
           {/* Avatar */}
           <div className="relative w-48 h-48 mx-auto">
             <Image src="/avatar.png" alt="Avatar" width={192} height={192} className="rounded-full object-cover w-full h-full" />
@@ -25,7 +28,7 @@ export default function HeroSection({ isDarkMode }: HeroSectionProps) {
               Nut Prohmpiriya
             </h1>
             <p className={`text-base ${isDarkMode ? 'text-gray-400' : 'text-gray-600'}`}>
-              @nut_n2p
+              Fullstack Developer
             </p>
           </div>
 
@@ -38,25 +41,40 @@ export default function HeroSection({ isDarkMode }: HeroSectionProps) {
 
           {/* CTA Buttons */}
           <div className="flex items-center justify-start gap-3">
-            <button className={`cursor-pointer rounded-2xl px-6 py-3 font-bold transition-colors ${isDarkMode
-              ? 'bg-white text-black hover:bg-gray-200'
-              : 'bg-black text-white hover:bg-gray-800'
-              }`}>
+            <button
+              onClick={onDownloadCV}
+              className={`cursor-pointer rounded-2xl px-6 py-3 font-bold transition-colors ${isDarkMode
+                ? 'bg-white text-black hover:bg-gray-200'
+                : 'bg-black text-white hover:bg-gray-800'
+              }`}
+            >
               <span className='text-sm'>Download my CV</span>
             </button>
-            <button className={`cursor-pointer px-6 py-3 rounded-2xl font-bold transition-colors border flex items-center justify-center gap-2 ${isDarkMode
-              ? 'bg-transparent text-white border-white hover:bg-white/10'
-              : 'bg-white text-black border-gray-200 hover:bg-gray-50'
-              }`}>
+            <button
+              onClick={scrollToContact}
+              className={`cursor-pointer px-6 py-3 rounded-2xl font-bold transition-colors border flex items-center justify-center gap-2 ${isDarkMode
+                ? 'bg-transparent text-white border-white hover:bg-white/10'
+                : 'bg-white text-black border-gray-200 hover:bg-gray-50'
+              }`}
+            >
               <span className='font-bold text-sm'>Contact Me</span>
-              {/* <ArrowRight className="w-5 h-5" /> */}
             </button>
-            <span className="flex-grow rounded-full border-2  border-white h-12 w-12 flex items-center justify-center">
-              <Linkedin className={`w-6 h-6 mt-1 cursor-pointer ${isDarkMode ? 'text-white' : 'text-gray-900'}`} />
-            </span>
-            <span className="flex-grow rounded-full border-2 border-white h-12 w-12 flex items-center justify-center">
-              <Github className={`w-6 h-6 mt-1 cursor-pointer ${isDarkMode ? 'text-white' : 'text-gray-900'}`} />
-            </span>
+            <a
+              href="https://www.linkedin.com/in/prohmpiriya/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={`rounded-full border-2 h-12 w-12 flex items-center justify-center hover:opacity-70 transition-opacity ${isDarkMode ? 'border-white' : 'border-gray-300'}`}
+            >
+              <Linkedin className={`w-6 h-6 cursor-pointer ${isDarkMode ? 'text-white' : 'text-gray-900'}`} />
+            </a>
+            <a
+              href="https://github.com/nat-prohmpiriya"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={`rounded-full border-2 h-12 w-12 flex items-center justify-center hover:opacity-70 transition-opacity ${isDarkMode ? 'border-white' : 'border-gray-300'}`}
+            >
+              <Github className={`w-6 h-6 cursor-pointer ${isDarkMode ? 'text-white' : 'text-gray-900'}`} />
+            </a>
           </div>
         </div>
 
@@ -76,19 +94,45 @@ export default function HeroSection({ isDarkMode }: HeroSectionProps) {
 
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4">
-            <button className={`cursor-pointer rounded-3xl px-4 py-2 font-bold transition-colors ${isDarkMode
-              ? 'bg-white text-black hover:bg-gray-200'
-              : 'bg-black text-white hover:bg-gray-800'
-              }`}>
+            <button
+              onClick={onDownloadCV}
+              className={`cursor-pointer rounded-3xl px-4 py-2 font-bold transition-colors ${isDarkMode
+                ? 'bg-white text-black hover:bg-gray-200'
+                : 'bg-black text-white hover:bg-gray-800'
+              }`}
+            >
               <span className='text-sm'>Download my CV</span>
             </button>
-            <button className={`cursor-pointer px-4 py-2 rounded-3xl font-bold transition-colors border flex items-center justify-center gap-2 ${isDarkMode
-              ? 'bg-transparent text-white border-white hover:bg-white/10'
-              : 'bg-white text-black border-gray-200 hover:bg-gray-50'
-              }`}>
+            <button
+              onClick={scrollToContact}
+              className={`cursor-pointer px-4 py-2 rounded-3xl font-bold transition-colors border flex items-center justify-center gap-2 ${isDarkMode
+                ? 'bg-transparent text-white border-white hover:bg-white/10'
+                : 'bg-white text-black border-gray-200 hover:bg-gray-50'
+              }`}
+            >
               <span className='font-bold text-sm'>Contact Me</span>
               <ArrowRight className="w-5 h-5" />
             </button>
+          </div>
+
+          {/* Social Links */}
+          <div className="flex gap-4">
+            <a
+              href="https://www.linkedin.com/in/prohmpiriya/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={`hover:opacity-70 transition-opacity ${isDarkMode ? 'text-white' : 'text-gray-900'}`}
+            >
+              <Linkedin className="w-6 h-6" />
+            </a>
+            <a
+              href="https://github.com/nat-prohmpiriya"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={`hover:opacity-70 transition-opacity ${isDarkMode ? 'text-white' : 'text-gray-900'}`}
+            >
+              <Github className="w-6 h-6" />
+            </a>
           </div>
         </div>
 
@@ -96,9 +140,9 @@ export default function HeroSection({ isDarkMode }: HeroSectionProps) {
         <div className="hidden lg:flex justify-center lg:justify-end">
           <div className="relative w-80 h-80 md:w-96 md:h-96">
             <div className={`absolute inset-0 rounded-full blur-3xl opacity-30 ${isDarkMode
-              ? 'bg-gradient-to-br from-purple-500 to-blue-500'
-              : 'bg-gradient-to-br from-purple-200 to-blue-200'
-              }`}></div>
+              ? 'bg-gradient-to-br from-gray-400 to-gray-600'
+              : 'bg-gradient-to-br from-gray-200 to-gray-300'
+            }`}></div>
             <div className="relative z-10 w-full h-full flex items-center justify-center">
               <Image src="/avatar.png" alt="Avatar" width={384} height={384} className="rounded-full object-cover w-full h-full" />
             </div>
