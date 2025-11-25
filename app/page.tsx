@@ -9,6 +9,7 @@ import SkillsSection from './components/SkillsSection';
 import PortfolioSection from './components/PortfolioSection';
 import ContactSection from './components/ContactSection';
 import EmailModal from './components/EmailModal';
+import TarotFloatingButton from './components/TarotFloatingButton';
 
 export default function Home() {
   const [isDarkMode, setIsDarkMode] = useState(true);
@@ -37,6 +38,9 @@ export default function Home() {
         isOpen={isEmailModalOpen}
         onClose={() => setIsEmailModalOpen(false)}
       />
+
+      {/* Tarot Floating Button */}
+      <TarotFloatingButton isDarkMode={isDarkMode} />
     </div>
   );
 }
