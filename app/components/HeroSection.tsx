@@ -41,7 +41,7 @@ export default function HeroSection({ isDarkMode, onDownloadCV }: HeroSectionPro
 
           {/* CTA Buttons */}
           <div className="flex items-center justify-start gap-3">
-            <button
+            {/* <button
               onClick={onDownloadCV}
               className={`cursor-pointer rounded-2xl px-6 py-3 font-bold transition-colors ${isDarkMode
                 ? 'bg-white text-black hover:bg-gray-200'
@@ -49,7 +49,7 @@ export default function HeroSection({ isDarkMode, onDownloadCV }: HeroSectionPro
               }`}
             >
               <span className='text-sm'>Download my CV</span>
-            </button>
+            </button> */}
             <button
               onClick={scrollToContact}
               className={`cursor-pointer px-6 py-3 rounded-2xl font-bold transition-colors border flex items-center justify-center gap-2 ${isDarkMode
@@ -94,7 +94,7 @@ export default function HeroSection({ isDarkMode, onDownloadCV }: HeroSectionPro
 
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4">
-            <button
+            {/* <button
               onClick={onDownloadCV}
               className={`cursor-pointer rounded-3xl px-4 py-2 font-bold transition-colors ${isDarkMode
                 ? 'bg-white text-black hover:bg-gray-200'
@@ -102,7 +102,7 @@ export default function HeroSection({ isDarkMode, onDownloadCV }: HeroSectionPro
               }`}
             >
               <span className='text-sm'>Download my CV</span>
-            </button>
+            </button> */}
             <button
               onClick={scrollToContact}
               className={`cursor-pointer px-4 py-2 rounded-3xl font-bold transition-colors border flex items-center justify-center gap-2 ${isDarkMode
