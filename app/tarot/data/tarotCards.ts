@@ -387,6 +387,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'ประกายแรงบันดาลใจจุดขึ้น การสร้างสรรค์และโอกาสใหม่ๆ เกิดขึ้น',
     meaningReversed: 'Delays in new ventures, lack of motivation, creative blocks.',
     meaningReversedTh: 'ความล่าช้าในการเริ่มต้นใหม่ ขาดแรงจูงใจ ความคิดสร้างสรรค์ติดขัด',
+    description: 'The Ace of Wands shows a hand emerging from clouds, grasping a wooden wand sprouting green leaves and acorns. The wand has creative potential bursting forth, representing inspiration, passion, and new creative ventures. A castle is visible in the distance below, suggesting growth and development. The hand represents divine inspiration being offered to us. This card embodies the spark of a new idea, a burst of creative energy, or the beginning of a spiritual journey. It calls us to embrace inspiration, take action on our passions, and step into our creative power.',
+    descriptionTh: 'เอซแห่งไม้เท้าแสดงมือที่โผล่ออกมาจากเมฆ คว้ากิ่งไม้เท้าที่งอกใบสีเขียวและลูกสน ไม้เท้ามีศักยภาพสร้างสรรค์ที่ระเบิดออก แทนแรงบันดาลใจ ความหลงใหล และการสร้างสรรค์ใหม่ ปราสาทมองเห็นอยู่ไกลออกไปด้านล่าง บ่งบอกถึงการเติบโตและพัฒนา มือแทนแรงบันดาลใจอันศักดิ์สิทธิ์ที่มอบให้เรา ไพ่ใบนี้รวบรวมประกายของความคิดใหม่ การระเบิดของพลังงานสร้างสรรค์ หรือจุดเริ่มต้นของการเดินทางทางจิตวิญญาณ มันเรียกให้เราโอบรับแรงบันดาลใจ ลงมือทำเกี่ยวกับความหลงใหลของเรา และก้าวเข้าสู่พลังสร้างสรรค์ของเรา',
     image: '/tarot/w01.jpg',
   },
   {
@@ -402,6 +404,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'การวางแผนสำหรับอนาคต ตัดสินใจเกี่ยวกับเส้นทางข้างหน้า',
     meaningReversed: 'Fear of change, lack of planning, playing it safe.',
     meaningReversedTh: 'กลัวการเปลี่ยนแปลง ขาดการวางแผน เล่นอย่างปลอดภัย',
+    description: 'Two of Wands shows a figure in fine clothing holding a globe and a wand, standing on a castle wall overlooking distant lands. The figure appears contemplative, gazing at the possibilities represented by the world in their hands. A wreath of laurel and a stone lion symbolize achievement and strength. The globe represents options and choices available. This card indicates a moment of planning and decision-making before embarking on new ventures. It speaks to your potential for growth and expansion, and the need to carefully consider your options. You hold your future in your hands—choose wisely and plan your next move.',
+    descriptionTh: 'สองแห่งไม้เท้าแสดงร่างที่สวมเสื้อผ้าสวยงามถือลูกโลกและไม้เท้า ยืนอยู่บนกำแพงปราสาทมองไปยังที่ดินอันไกลออกไป ร่างนั้นดูเหมือนหมกมุ่น จ้องมองไปที่ความเป็นไปได้ที่แทนด้วยโลกในมือ พวงมาลัยของต้นซ่ือและสิงโตหินเป็นสัญลักษณ์ของความสำเร็จและความเข้มแข็ง ลูกโลกแทนตัวเลือกและทางเลือกที่มีอยู่ ไพ่ใบนี้บ่งชี้ถึงช่วงเวลาของการวางแผนและการตัดสินใจก่อนเริ่มการอุปครณ์ใหม่ มันพูดถึงศักยภาพของคุณในการเติบโตและขยาย และความต้องการที่จะพิจารณาตัวเลือกของคุณอย่างรอบคอบ คุณถือโอกาสในมือของคุณ—เลือกอย่างชาญฉลาดและวางแผนการเคลื่อนไหวครั้งต่อไป',
     image: '/tarot/w02.jpg',
   },
   {
@@ -417,6 +421,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'แผนของคุณกำลังเป็นรูปเป็นร่าง การขยายและการเติบโตอยู่ข้างหน้า',
     meaningReversed: 'Lack of foresight, delays in plans, obstacles to growth.',
     meaningReversedTh: 'ขาดการมองการณ์ไกล ความล่าช้าในแผน อุปสรรคต่อการเติบโต',
+    description: 'Three of Wands depicts a figure standing on a cliff with three wands firmly planted, gazing out at ships sailing on the horizon. The wands are grounded and stable, suggesting established foundations. The merchant ships represent opportunities for expansion, trade, and adventure. The landscape shows mountains and distant lands, symbolizing unexplored possibilities. This card speaks to planning, vision, and the fruits of early efforts beginning to manifest. It suggests that your plans are taking shape and growth is visible on the horizon. Trust your instincts, remain patient, and prepare to seize the opportunities that are coming your way.',
+    descriptionTh: 'สามแห่งไม้เท้าแสดงร่างที่ยืนบนหน้าผาพร้อมไม้เท้าสามอันที่ปลูกแน่นหนา จ้องมองเรือที่แล่นอยู่บนขอบฟ้า ไม้เท้าที่มั่นคงและเสถียร บ่งบอกถึงรากฐานที่กำหนดไว้แล้ว เรือค้าแทนโอกาสสำหรับการขยาย การค้า และการผจญภัย ภูมิทัศน์แสดงภูเขาและที่ดินอันไกลออกไป เป็นสัญลักษณ์ของความเป็นไปได้ที่ยังไม่ได้สำรวจ ไพ่ใบนี้พูดถึงการวางแผน วิสัยทัศน์ และผลลัพธ์ของความพยายามในช่วงแรกที่เริ่มปรากฏ มันแนะนำว่าแผนของคุณกำลังเป็นรูปเป็นร่าง และการเติบโตมองเห็นได้อยู่ข้างหน้า เชื่อมั่นในสัญชาตญาณของคุณ ยังคงอดทน และเตรียมพร้อมที่จะคว้าโอกาสที่กำลังมาถึง',
     image: '/tarot/w03.jpg',
   },
   {
@@ -432,6 +438,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'ถึงเวลาเฉลิมฉลอง! ความสามัคคีในบ้านและความสัมพันธ์ บรรลุเป้าหมายสำคัญ',
     meaningReversed: 'Lack of harmony, cancelled celebrations, feeling unwelcome.',
     meaningReversedTh: 'ขาดความสามัคคี การเฉลิมฉลองถูกยกเลิก รู้สึกไม่ได้รับการต้อนรับ',
+    description: 'Four of Wands shows a celebration scene with four wands adorned with garlands forming a canopy over dancing figures. A wreath of grapes and grapevines frames the scene, representing abundance and fertility. The figures are joyful and in harmony, surrounded by what appears to be a festival or wedding celebration. Behind them is a castle, suggesting security and establishment. This card embodies joy, harmony, and milestone achievements. It represents a time of celebration, reunion, and community. The four wands are balanced and stable, indicating that your foundations are solid. You have earned this moment of peace and happiness—celebrate your accomplishments and enjoy the harmony you have created.',
+    descriptionTh: 'สี่แห่งไม้เท้าแสดงฉากการเฉลิมฉลองพร้อมไม้เท้าสี่อันประดับด้วยพวงหรีดสร้างเสาเงาเหนือร่างที่เต้นรำ พวงมาลัยองุ่นและเถาองุ่นห่อหุ้มฉากนั้น แทนความอุดมสมบูรณ์และความอุดมสมบูรณ์ ร่างต่างๆ มีความสุขและสามัคคี ล้อมรอบด้วยสิ่งที่ดูเหมือนเทศกาลหรือการเฉลิมฉลองการแต่งงาน ด้านหลังคือปราสาท บ่งบอกถึงความมั่นคงและการสถาปนา ไพ่ใบนี้รวบรวมความสุข ความสามัคคี และความสำเร็จทางเหตุการณ์สำคัญ มันแทนช่วงเวลาของการเฉลิมฉลอง การพบปะกันอีกครั้ง และชุมชน ไม้เท้าสี่อันสมดุลและเสถียร บ่งชี้ว่ารากฐานของคุณมั่นคง คุณได้รับช่วงเวลาแห่งความสงบและความสุขนี้—เฉลิมฉลองความสำเร็จของคุณและเพลิดเพลินกับความสามัคคีที่คุณได้สร้างขึ้น',
     image: '/tarot/w04.jpg',
   },
   {
@@ -447,6 +455,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'การแข่งขันและความขัดแย้งเกิดขึ้น ความคิดเห็นที่แตกต่างปะทะกัน แต่การเติบโตมาจากความหลากหลาย',
     meaningReversed: 'Avoiding conflict, inner conflict, resolution.',
     meaningReversedTh: 'หลีกเลี่ยงความขัดแย้ง ความขัดแย้งภายใน การแก้ไข',
+    description: 'Five of Wands depicts five figures clashing with wands held at different angles, suggesting conflict and competition. They are engaged in a struggle, but no one appears to be truly winning. The wands cross and intertwine, creating a chaotic pattern. The background is empty and neutral, suggesting this conflict is isolated and temporary. This card represents disagreement, tension, and competition. However, it also suggests that the conflict is not deeply rooted—it can be resolved through communication and compromise. The diverse perspectives, while creating tension now, can ultimately lead to growth and innovation. Seek common ground and remember that different viewpoints can strengthen rather than weaken the group.',
+    descriptionTh: 'ห้าแห่งไม้เท้าแสดงห้าร่างปะทะกับไม้เท้าที่มุมต่างๆ บ่งชี้ถึงความขัดแย้งและการแข่งขัน พวกเขากำลังต่อสู้กัน แต่ดูเหมือนว่าไม่มีใครชนะจริงๆ ไม้เท้าข้ามและพันกัน สร้างรูปแบบที่วุ่นวาย พื้นหลังว่างเปล่าและเป็นกลาง แสดงว่าความขัดแย้งนี้เป็นแบบปลายเหตุและชั่วคราว ไพ่ใบนี้แทนความไม่เห็นด้วย ความตึงเครียด และการแข่งขัน อย่างไรก็ตาม มันแนะนำว่าความขัดแย้งไม่ลึกล้ำ—สามารถแก้ไขได้ผ่านการสื่อสารและการประนีประนอม มุมมองที่หลากหลาย แม้จะสร้างความตึงเครียดในตอนนี้ก็ตาม สามารถนำมาซึ่งการเติบโตและนวัตกรรมได้ในท้ายสุด ค้นหาจุดร่วม และจำไว้ว่ามุมมองที่แตกต่างกันสามารถเสริมความแข็งแกร่งแทนที่จะอ่อนแอกว่า',
     image: '/tarot/w05.jpg',
   },
   {
@@ -462,6 +472,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'ชัยชนะและการยอมรับจากสาธารณะ! ความพยายามของคุณได้รับการเฉลิมฉลอง',
     meaningReversed: 'Private achievement, fall from grace, egotism.',
     meaningReversedTh: 'ความสำเร็จส่วนตัว การตกต่ำ ความเห็นแก่ตัว',
+    description: 'Six of Wands shows a figure on horseback wearing a wreath of victory, holding a wand aloft with a group of people behind them, cheering and celebrating. The wreath represents honor and recognition. The figure is elevated, both literally and figuratively, standing above others. A lion adorns the horse\'s blanket, symbolizing courage and strength. This card represents public recognition, achievement, and success. Your efforts have been noticed and appreciated by others. It speaks to confidence, leadership, and the positive feedback you are receiving. However, remember that true success is built on integrity and genuine accomplishment. Wear your laurels humbly and continue to work with the same dedication that earned them.',
+    descriptionTh: 'หกแห่งไม้เท้าแสดงร่างบนม้าสวมพวงมาลัยแห่งชัยชนะ ถือไม้เท้าขึ้นสูงพร้อมกลุ่มคนอยู่ด้านหลัง เชียร์และเฉลิมฉลอง พวงมาลัยแทนเกียรติยศและการยอมรับ ร่างนั้นยกสูง ทั้งตามความเป็นจริงและเชิงเปรียบเทียบ ยืนเหนือคนอื่นๆ สิงโตประดับผ้าม้า เป็นสัญลักษณ์ของความกล้าหาญและความแข็งแกร่ง ไพ่ใบนี้แทนการยอมรับจากสาธารณะ ความสำเร็จ และความสำเร็จ ความพยายามของคุณได้รับการสังเกตและชื่นชมจากผู้อื่น มันพูดถึงความมั่นใจ ความเป็นผู้นำ และข้อเสนอแนะด้านบวกที่คุณได้รับ อย่างไรก็ตาม จำไว้ว่าความสำเร็จที่แท้จริงถูกสร้างขึ้นจากความสุจริตและความสำเร็จที่แท้จริง สวมพวงมาลัยของคุณอย่างเอื้อเฟื้อ และทำงานต่อไปด้วยความทุ่มเทเดียวกันที่ได้รับมัน',
     image: '/tarot/w06.jpg',
   },
   {
@@ -477,6 +489,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'ยืนหยัดต่อสู้กับความท้าทาย ปกป้องจุดยืนของคุณด้วยความกล้าหาญ',
     meaningReversed: 'Giving up, overwhelmed, feeling defeated.',
     meaningReversedTh: 'ยอมแพ้ ถูกครอบงำ รู้สึกพ่ายแพ้',
+    description: 'Seven of Wands shows a figure elevated on a slope, defensively holding one wand while six others approach from below. The figure is outnumbered but not outmatched, standing firm and determined. The figure\'s stance is defensive yet powerful, showing readiness and courage. This card represents standing up for your beliefs, defending your position, and facing challenges with determination. You may feel outnumbered or pressured, but you have the strength to hold your ground. This is a time to trust your convictions and not back down from what you believe in. Show your mettle, remain confident, and remember that many challenges can be overcome with perseverance and courage.',
+    descriptionTh: 'เจ็ดแห่งไม้เท้าแสดงร่างยกสูงบนลาด ถือไม้เท้าหนึ่งอย่างป้องกันในขณะที่อีกหกอันเข้าใกล้จากด้านล่าง ร่างนั้นตัวเลขน้อยกว่า แต่ไม่ได้ด้อยกว่า ยืนหยัดและมุ่งมั่น ท่าทางของร่างนั้นป้องกันแต่มีพลัง แสดงความพร้อมและความกล้าหาญ ไพ่ใบนี้แทนการยืนหยัดเพื่อความเชื่อของคุณ การปกป้องจุดยืนของคุณ และการเผชิญหน้ากับความท้าทายด้วยความมุ่งมั่น คุณอาจรู้สึกตัวเลขน้อยกว่าหรือถูกกดดัน แต่คุณมีความแข็งแกร่งที่จะยืนหยัดต่อไป นี่คือเวลาที่จะเชื่อมั่นในความเชื่อของคุณและไม่ถอยมากจากสิ่งที่คุณเชื่อ แสดงให้เห็นถึงเหตุผลของคุณ ยังคงมั่นใจ และจำไว้ว่าความท้าทายหลายอย่างสามารถเอาชนะได้ด้วยความพากเพียรและความกล้าหาญ',
     image: '/tarot/w07.jpg',
   },
   {
@@ -492,6 +506,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'สิ่งต่างๆ กำลังเคลื่อนที่เร็ว! ลงมือทำอย่างรวดเร็ว การเดินทางและการสื่อสารราบรื่น',
     meaningReversed: 'Delays, frustration, waiting, slowing down.',
     meaningReversedTh: 'ความล่าช้า ความหงุดหงิด การรอคอย การชะลอตัว',
+    description: 'Eight of Wands shows eight wands flying through the air in rapid motion, suggesting swift movement and quick progression. The wands are perfectly aligned, creating a sense of speed and purpose. The landscape below blurs, emphasizing movement and change. There are no obstacles in sight, indicating clear passage and smooth flow. This card represents acceleration, action, and rapid progress. Things are moving quickly now, and momentum is on your side. This is the time to act decisively and move forward with your plans. Communication is swift, travel is smooth, and developments happen faster than expected. Stay alert and take advantage of this energetic period to make significant progress toward your goals.',
+    descriptionTh: 'แปดแห่งไม้เท้าแสดงไม้เท้าแปดอันบินผ่านอากาศในการเคลื่อนไหวที่รวดเร็ว บ่งชี้ถึงการเคลื่อนไหวที่รวดเร็วและความก้าวหน้าอย่างรวดเร็ว ไม้เท้าจัดตำแหน่งอย่างสมบูรณ์แบบ สร้างความรู้สึกของความเร็วและจุดประสงค์ ภูมิทัศน์ด้านล่างเบลออก เน้นการเคลื่อนไหวและการเปลี่ยนแปลง ไม่มีสิ่งกีดขวางเห็น บ่งชี้การผ่านที่ชัดเจนและการไหลที่ราบรื่น ไพ่ใบนี้แทนการเร่งความเร็ว การกระทำ และความก้าวหน้าอย่างรวดเร็ว สิ่งต่างๆ กำลังเคลื่อนไหวอย่างรวดเร็ว และโมเมนตัมอยู่ด้านข้างของคุณ นี่คือเวลาที่ต้องดำเนินการอย่างตัดสินใจและก้าวไปข้างหน้าด้วยแผนของคุณ การสื่อสารรวดเร็ว การเดินทางเป็นไปอย่างราบรื่น และการพัฒนาเกิดขึ้นเร็วกว่าที่คาดไว้ สตายืนอย่างระมัดระวังและใช้ประโยชน์จากช่วงเวลาที่มีพลังงานนี้เพื่อให้ความก้าวหน้าที่มีนัยสำคัญต่อเป้าหมายของคุณ',
     image: '/tarot/w08.jpg',
   },
   {
@@ -507,6 +523,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'คุณใกล้เส้นชัยแล้ว ยืนหยัดต่อไปแม้จะเหนื่อยล้า',
     meaningReversed: 'Paranoia, defensiveness, giving up too soon.',
     meaningReversedTh: 'ความหวาดระแวง การตั้งรับ ยอมแพ้เร็วเกินไป',
+    description: 'Nine of Wands shows a figure bearing a wand with a bandage on their forehead, standing before eight other wands forming a protective barrier. The figure appears tired and wary, yet determined to hold their position. The wands are sturdy and firmly planted, providing a strong foundation. The figure\'s vigilance suggests past struggles and the lessons learned from them. This card represents resilience, determination, and the final stretch before victory. You are worn down but not defeated. You\'ve come too far to give up now. Gather your remaining strength, stand firm in your convictions, and prepare for the final push. Victory is within reach—persevere just a little longer.',
+    descriptionTh: 'เก้าแห่งไม้เท้าแสดงร่างถือไม้เท้าพร้อมผ้าพันแผลบนหน้าผาก ยืนอยู่ก่อนไม้เท้าแปดอันที่สร้างกำแพงป้องกัน ร่างนั้นดูเหมือนเหนื่อยและระมัดระวัง แต่มุ่งมั่นที่จะยืนหยัดในตำแหน่งของพวกเขา ไม้เท้าแข็งแรงและปลูกแน่นหนา ให้รากฐานที่มั่นคง ความระมัดระวังของร่างแนะนำการต่อสู้ในอดีตและบทเรียนที่ได้เรียนรู้จากมัน ไพ่ใบนี้แทนความยืดหยุ่น ความมุ่งมั่น และส่วนสุดท้ายก่อนชัยชนะ คุณหมดแรง แต่ไม่ได้พ่ายแพ้ คุณเดินทางมาไกลเกินไปที่จะยอมแพ้ตอนนี้ รวบรวมพลังที่เหลือของคุณ ยืนหยัดอย่างแน่นอนในความเชื่อของคุณ และเตรียมพร้อมสำหรับการดันครั้งสุดท้าย ชัยชนะอยู่ใกล้ถึงตัว—ยืดหยุ่นต่อไปอีกนิดเดียว',
     image: '/tarot/w09.jpg',
   },
   {
@@ -522,6 +540,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'ภาระหนักกดทับคุณ ถึงเวลามอบหมายหรือปล่อยวางความรับผิดชอบบางอย่าง',
     meaningReversed: 'Inability to delegate, carrying too much, collapse.',
     meaningReversedTh: 'ไม่สามารถมอบหมายงานได้ แบกรับมากเกินไป ล้มเหลว',
+    description: 'Ten of Wands shows a figure heavily burdened, carrying ten wands that nearly obscure their face. The wands are cumbersome and weigh the figure down, yet the figure continues forward. The path ahead is visible, but the journey looks exhausting. This card represents heavy responsibilities, stress, and the burden of carrying too much. You may be shouldering responsibilities that could be shared with others. It\'s a reminder that you cannot do everything alone and that asking for help is not weakness. Consider delegating tasks, setting boundaries, and reassessing what truly requires your attention. Relief is possible when you learn to let go and trust others with some of your burden.',
+    descriptionTh: 'สิบแห่งไม้เท้าแสดงร่างที่ถูกภาระหนัก บรรทุกไม้เท้าสิบอันที่เกือบปิดบังใบหน้า ไม้เท้าหนักและให้น้ำหนักแก่ร่าง แต่ร่างนั้นยังคงเดินไปข้างหน้า เส้นทางข้างหน้าสามารถมองเห็นได้ แต่การเดินทางดูเหมือนเหนื่อยหนึ่ง ไพ่ใบนี้แทนความรับผิดชอบหนัก ความเครียด และภาระของการแบกรับมากเกินไป คุณอาจแบกรับความรับผิดชอบที่สามารถแบ่งปันกับผู้อื่นได้ มันเป็นการเตือนว่าคุณไม่สามารถทำทุกอย่างได้คนเดียวและการขอความช่วยเหลือไม่ใช่ความอ่อนแอ พิจารณามอบหมายงาน กำหนดขอบเขต และประเมินใหม่ว่าสิ่งใดต้องใช้ความสนใจของคุณจริงๆ การบรรเทาอาการเป็นไปได้เมื่อคุณเรียนรู้ที่จะปล่อยวางและวางใจผู้อื่นกับส่วนหนึ่งของภาระของคุณ',
     image: '/tarot/w10.jpg',
   },
   {
@@ -537,6 +557,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'ข่าวสารแห่งการเริ่มต้นใหม่ สำรวจด้วยความกระตือรือร้นและความอยากรู้',
     meaningReversed: 'Setbacks, lack of direction, procrastination.',
     meaningReversedTh: 'อุปสรรค ขาดทิศทาง การผัดวันประกันพรุ่ง',
+    description: 'The Page of Wands is a young figure dressed in bright, colorful robes, standing in a desert landscape. He holds a tall wand confidently in both hands, gazing upward with wonder and curiosity. His youthful face radiates enthusiasm and eagerness. Salamanders (symbols of fire and transformation) appear on his clothing. Behind him, the barren desert represents potential waiting to be explored. The Page embodies youthful energy, enthusiasm, and the beginning of a passionate journey. He represents messengers, good news, and the creative spark of new ideas. Like a young adventurer setting out on a quest, the Page of Wands encourages us to embrace curiosity, pursue new experiences, and trust our instincts.',
+    descriptionTh: 'เพจแห่งไม้เท้าเป็นตัวละครเยาวชนแต่งตัวในเสื้อคลุมสีสันสดใส ยืนอยู่ในภูมิทัศน์ทะเลทราย ท่านถือไม้เท้าสูงด้วยความมั่นใจทั้งสองมือ จ้องมองท้องฟ้าด้วยประหลาดใจและความอยากรู้ ใบหน้าเยาวชนของท่านเต็มไปด้วยความกระตือรือร้นและความกระหายใจ ไสลแมนเดอร์ (สัญลักษณ์ของไฟและการเปลี่ยนแปลง) ปรากฏบนเสื้อผ้าของท่าน ด้านหลังท่านทะเลทรายแห้งแล้งเป็นตัวแทนของศักยภาพรอการสำรวจ เพจรวบรวมพลังงานเยาวชน ความตื่นเต้น และประกายความคิดสร้างสรรค์ใหม่ ท่านเป็นตัวแทนของผู้นำข่าว ข่าวดีที่มา และประกายสร้างสรรค์ของแนวคิดใหม่ เหมือนผู้ผจญภัยเยาวชนที่ออกเดินทางตามภารกิจ เพจแห่งไม้เท้าสนับสนุนให้เรายอมรับความอยากรู้ ไล่ตามประสบการณ์ใหม่ๆ และเชื่อมั่นในสัญชาตญาณของเรา',
     image: '/tarot/w11.jpg',
   },
   {
@@ -552,6 +574,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'ไล่ตามความหลงใหลด้วยพลังงานและความมั่นใจ การผจญภัยรอคุณอยู่!',
     meaningReversed: 'Haste, scattered energy, delays in travel.',
     meaningReversedTh: 'ความรีบร้อน พลังงานกระจัดกระจาย ความล่าช้าในการเดินทาง',
+    description: 'The Knight of Wands rides a yellow horse across a desert landscape, his red armor gleaming in the sunlight. He holds his wand high in the air, pointing it upward with fierce determination and passion. Salamanders adorn his clothing and the horse\'s caparison, emphasizing the element of fire. The horse appears to be leaping or galloping with explosive energy. Behind him lies barren desert, but ahead lies the promise of new territories to explore. The Knight embodies passionate action, bold pursuit of goals, and adventurous spirit. He represents a warrior of ideas, someone who takes action on their convictions with enthusiasm and confidence. The Knight of Wands reminds us that passion without action is merely a dream—we must ride toward our goals with courage and unwavering determination.',
+    descriptionTh: 'อัศวินแห่งไม้เท้าขี่ม้าสีเหลืองข้ามทะเลทราย เกราะสีแดงของท่านส่องสว่างในแสงแดด ท่านถือไม้เท้าสูงเหนือหัวโดยชี้ขึ้นไปด้วยความมุ่งมั่นและหลงใหลอย่างรุนแรง ไสลแมนเดอร์ประดับเสื้อผ้าของท่านและซาดเล้ของม้า เน้นย้ำองค์ประกอบของไฟ ม้าเหมือนจะกระโดดหรือวิ่งด้วยพลังงานแบบระเบิด ด้านหลังท่านเป็นทะเลทรายแห้งแล้ง แต่ข้างหน้าคือสัญญาของอาณาเขตใหม่ที่จะสำรวจ อัศวินรวบรวมการกระทำที่หลงใหล การไล่ตามเป้าหมายอย่างกล้าหาญ และจิตใจผจญภัย ท่านเป็นตัวแทนของส战士แห่งแนวคิด ใครบางคนที่ดำเนินการตามความเชื่อของพวกเขาด้วยความตื่นเต้นและความมั่นใจ อัศวินแห่งไม้เท้าเตือนเราว่าความหลงใหลโดยไม่มีการกระทำเป็นเพียงความฝัน—เราต้องขี่ม้าไปยังเป้าหมายของเราด้วยความกล้าหาญและความมุ่งมั่นที่ไม่สั่นคลอน',
     image: '/tarot/w12.jpg',
   },
   {
@@ -567,6 +591,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'ยอมรับความมั่นใจและเสน่ห์ของคุณ นำด้วยความอบอุ่นและความมุ่งมั่น',
     meaningReversed: 'Selfishness, jealousy, demanding behavior.',
     meaningReversedTh: 'ความเห็นแก่ตัว ความอิจฉา พฤติกรรมเรียกร้อง',
+    description: 'The Queen of Wands sits on a throne adorned with lions, symbols of courage and strength. She holds a wand in one hand and a sunflower in the other, representing confidence and the sun itself. A cat sits at her feet, symbolizing her independence and intuitive power. She wears a yellow robe with salamander patterns, representing fire and passion. The background shows a sunny, energetic landscape. The Queen embodies confidence, independence, creativity, and magnetic warmth. She is a natural leader who draws others to her through charisma and determination. The Queen of Wands teaches us that true power comes from being authentically ourselves—proud, passionate, and unafraid to shine brightly. She encourages us to embrace our inner fire and lead with warmth and vision.',
+    descriptionTh: 'ราชินีแห่งไม้เท้านั่งบนบัลลังก์ประดับด้วยสิงโต สัญลักษณ์ของความกล้าหาญและความแข็งแกร่ง ท่านถือไม้เท้าในมือข้างหนึ่งและดอกทานตะวันในอีกมือ แทนความมั่นใจและดวงอาทิตย์เอง แมวนั่งอยู่ที่เท้าของท่าน เป็นสัญลักษณ์ของความเป็นอิสระและพลังสัญชาตญาณของท่าน ท่านสวมชุดสีเหลืองที่มีลวดลายไสลแมนเดอร์ แทนไฟและความหลงใหล พื้นหลังแสดงภูมิทัศน์ที่มีแดดและเต็มไปด้วยพลังงาน ราชินีรวบรวมความมั่นใจ ความเป็นอิสระ ความสร้างสรรค์ และความอบอุ่นที่ดึงดูด ท่านเป็นผู้นำตามธรรมชาติที่ดึงดูดผู้อื่นมาหาท่านผ่านเสน่ห์และความมุ่งมั่น ราชินีแห่งไม้เท้าสอนเราว่าพลังที่แท้จริงมาจากการเป็นตัวเราเองอย่างแท้จริง—มีความภาคภูมิใจ หลงใหล และไม่กลัวที่จะส่องแสงสว่าง ท่านสนับสนุนให้เรายอมรับไฟภายในของเรา และนำด้วยความอบอุ่นและวิสัยทัศน์',
     image: '/tarot/w13.jpg',
   },
   {
@@ -582,6 +608,8 @@ export const wands: TarotCard[] = [
     meaningUprightTh: 'นำด้วยวิสัยทัศน์และแรงบันดาลใจ เสน่ห์ของคุณดึงดูดความสำเร็จ',
     meaningReversed: 'Impulsive decisions, overbearing, ruthless.',
     meaningReversedTh: 'การตัดสินใจหุนหันพลันแล่น ข่มขู่ ไร้ความปราณี',
+    description: 'The King of Wands sits upon a throne decorated with lions and salamanders, radiating power and authority. He holds a wand upright, crowned with fire or a flame at its tip, representing his vision and passion. His yellow robes are alive with energy, and he wears a crown signifying his mastery and kingship. A lion or mountain lion sits beside him, symbolizing his strength and courage. Behind him, a desert landscape stretches out, suggesting vast territories he commands. The King embodies leadership, vision, and charismatic authority. He is a visionary entrepreneur and natural leader who inspires others through his confidence and bold direction. The King of Wands teaches us that true leadership comes from combining passion with purpose, and that our vision can inspire and transform those around us. He reminds us to lead with integrity, courage, and unwavering conviction.',
+    descriptionTh: 'ราชาแห่งไม้เท้านั่งบนบัลลังก์ประดับด้วยสิงโตและไสลแมนเดอร์ ส่องสว่างพลังและอำนาจ ท่านถือไม้เท้าตั้งตรง มงกุฎด้วยไฟหรือเปลวเพลิงที่ปลายไม้ แทนวิสัยทัศน์และความหลงใหล เสื้อคลุมสีเหลืองของท่านเต็มไปด้วยพลังงาน และท่านสวมมงกุฎแทนความเชี่ยวชาญและราชวงศ์ของท่าน สิงโตหรือภูเขาสิงโตนั่งข้างท่าน เป็นสัญลักษณ์ของความแข็งแกร่งและความกล้าหาญของท่าน ด้านหลังท่านทะเลทรายยืดยาว บ่งบอกถึงอาณาเขตอันกว้างใหญ่ที่ท่านปกครอง ราชาเป็นตัวแทนของความเป็นผู้นำ วิสัยทัศน์ และอำนาจเสน่ห์ เขาเป็นผู้ประกอบการที่มีวิสัยทัศน์และผู้นำตามธรรมชาติที่สนับสนุนผู้อื่นผ่านความมั่นใจและทิศทางที่กล้าหาญของเขา ราชาแห่งไม้เท้าสอนเราว่าความเป็นผู้นำที่แท้จริงมาจากการรวมความหลงใหลเข้ากับจุดประสงค์ และวิสัยทัศน์ของเราสามารถสนับสนุนและเปลี่ยนแปลงผู้ที่อยู่รอบตัวเรา ท่านเตือนเราให้นำด้วยสติยังวัตถุ ความกล้าหาญ และความเชื่อมั่นที่ไม่สั่นคลอน',
     image: '/tarot/w14.jpg',
   },
 ];
@@ -601,6 +629,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'การเริ่มต้นใหม่ทางอารมณ์ เปิดใจรับความรักและความคิดสร้างสรรค์',
     meaningReversed: 'Emotional loss, blocked creativity, emptiness.',
     meaningReversedTh: 'การสูญเสียทางอารมณ์ ความคิดสร้างสรรค์ถูกปิดกั้น ความว่างเปล่า',
+    description: 'The Ace of Cups shows a hand emerging from clouds, offering an overflowing chalice with pure water and a white dove above it. The cup is divine and sacred, radiating spiritual love and emotional abundance. This card embodies the opening of the heart, the awakening of emotional truth, and the divine gift of love bestowed upon you.',
+    descriptionTh: 'เอซแห่งถ้วยแสดงมือที่โผล่ออกมาจากเมฆ มอบหลวงจอกที่ล้นเหลือด้วยน้ำบริสุทธิ์และนกพิราบสีขาวอยู่เหนือ ถ้วยเป็นสิ่งศักดิ์สิทธิ์และศาสนา ส่องสว่างพลังงานจิตวิญญาณ สัญลักษณ์ของความรัก และความอุดมสมบูรณ์ทางอารมณ์ ไพ่ใบนี้รวบรวมการเปิดใจ การตื่นรู้ของความจริงทางอารมณ์ และของขวัญศักดิ์สิทธิ์ของความรักที่มอบให้คุณ',
     image: '/tarot/c01.jpg',
   },
   {
@@ -616,6 +646,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'การเชื่อมต่อลึกซึ้งและหุ้นส่วน แรงดึงดูดซึ่งกันและกันและความสัมพันธ์ที่กลมกลืน',
     meaningReversed: 'Imbalance in relationships, broken partnerships, disconnection.',
     meaningReversedTh: 'ความไม่สมดุลในความสัมพันธ์ หุ้นส่วนที่แตกหัก การขาดการเชื่อมต่อ',
+    description: 'Two of Cups shows two figures standing face to face, each holding a cup as they toast to their connection. A winged caduceus hovers between them, symbolizing communication and balance. Their exchange is one of mutual love, respect, and emotional harmony that creates a powerful bond.',
+    descriptionTh: 'สองแห่งถ้วยแสดงสองร่างยืนหน้าตามหน้า แต่ละคนถือถ้วยขณะที่ยกขึ้นเพื่อเฉลิมฉลองการเชื่อมต่อ กระบองหนึ่งมีปีกลอยอยู่ระหว่างพวกเขา เป็นสัญลักษณ์ของการสื่อสารและความสมดุล การแลกเปลี่ยนของพวกเขาเป็นความรักซึ่งกันและกัน ความเคารพ และความสมดุลทางอารมณ์ที่สร้างพันธมิตรที่มีพลัง',
     image: '/tarot/c02.jpg',
   },
   {
@@ -631,6 +663,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'ฉลองกับเพื่อนๆ! ความสุข ชุมชน และความร่วมมือสร้างสรรค์',
     meaningReversed: 'Overindulgence, gossip, isolation from friends.',
     meaningReversedTh: 'การเกินพอดี การนินทา การแยกตัวจากเพื่อน',
+    description: 'Three of Cups depicts three figures joyfully dancing together, each holding a cup raised in celebration. They are surrounded by grapes and abundance, symbolizing fertility and shared joy. Their unity and connection demonstrate the power of community, friendship, and celebration together.',
+    descriptionTh: 'สามแห่งถ้วยแสดงสามร่างเต้นรำด้วยความสุข โดยแต่ละคนถือถ้วยยกขึ้นเพื่อเฉลิมฉลอง พวกเขาล้อมรอบด้วยองุ่นและความอุดมสมบูรณ์ สัญลักษณ์ของความอุดมสมบูรณ์และความสุขร่วม ความเป็นหนึ่งเดียวและการเชื่อมต่อของพวกเขาสาธิตพลังของชุมชน มิตรภาพ และการเฉลิมฉลองร่วม',
     image: '/tarot/c03.jpg',
   },
   {
@@ -646,6 +680,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'ใช้เวลาไตร่ตรอง คุณอาจพลาดโอกาสเพราะความไม่สนใจ',
     meaningReversed: 'Sudden awareness, seizing opportunities, motivation returns.',
     meaningReversedTh: 'การตระหนักรู้กะทันหัน คว้าโอกาส แรงจูงใจกลับมา',
+    description: 'A figure sits beneath a tree in contemplation, with three cups before him. A fourth cup appears to be offered from a cloud, but he remains absorbed in his meditation. This card represents a state of apathy and introspection where you may be overlooking new opportunities. It suggests a need for awareness and perhaps a fresh perspective on what is being presented to you.',
+    descriptionTh: 'บุคคลหนึ่งนั่งอยู่ใต้ต้นไม้ในท่าทางใคร่ครวญ มีถ้วยสามใบอยู่ต่อหน้า ถ้วยที่สี่ดูเหมือนนำเสนอจากเมฆ แต่เขายังคงหมกมุ่นอยู่ในสมาธิของเขา ไพ่ใบนี้แสดงถึงจากสภาวะของความไม่สนใจและการไตร่ตรองภายใน ซึ่งอาจทำให้คุณมองข้ามโอกาสใหม่ๆ ได้ แนะนำให้คุณต้องการความตระหนักรู้ แนะนำให้คุณใจเปิดกว้างต่อท่าทีประสาทที่ไม่รู้จัก',
     image: '/tarot/c04.jpg',
   },
   {
@@ -661,6 +697,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'ความเศร้าและความเสียใจ มุ่งเน้นที่สิ่งที่เหลืออยู่มากกว่าสิ่งที่สูญเสียไป',
     meaningReversed: 'Acceptance, moving on, finding peace.',
     meaningReversedTh: 'การยอมรับ ก้าวต่อไป พบความสงบ',
+    description: 'A cloaked figure stands with head bowed in grief, facing three spilled cups on the ground. Behind them, two cups remain upright, unnoticed in their despair. This card represents loss, disappointment, and emotional pain. However, it carries a hidden message: even in loss, there is hope remaining. The focus on what is lost blinds the grieving to what still stands. This card teaches that healing comes from shifting perspective and recognizing that loss does not mean total destruction.',
+    descriptionTh: 'บุคคลทีสวมเสื้อคลุมยืนโดยยกศีรษะลง ในความเศร้า หันหน้าไปทางถ้วยที่หกลงมาสามใบบนพื้นดิน ด้านหลังเขามีถ้วยสองใบยังคงตั้งตรง ไม่ถูกสังเกต ในความสิ้นหวัง ไพ่ใบนี้แสดงถึงความสูญเสีย ความผิดหวัง และความเจ็บปวดทางอารมณ์ อย่างไรก็ตาม มีข้อความที่ซ่อนเร้น: แม้ในการสูญเสีย กลับมีความหวังอยู่ การมุ่งเน้นไปที่สิ่งที่สูญเสียไปทำให้ผู้เศร้าเหลือเหล็นไม่เห็นสิ่งที่ยังคงอยู่ ไพ่ใบนี้สอนว่าการรักษาตัวมาจากการเปลี่ยนมุมมองและการยอมรับว่าการสูญเสียไม่ได้หมายถึงการทำลายทั้งหมด',
     image: '/tarot/c05.jpg',
   },
   {
@@ -676,6 +714,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'ความคิดถึงและความทรงจำที่มีความสุข เชื่อมต่อกับเด็กภายในหรืออดีต',
     meaningReversed: 'Living in the past, unrealistic expectations, naivety.',
     meaningReversedTh: 'ยึดติดกับอดีต ความคาดหวังที่ไม่สมจริง ความไร้เดียงสา',
+    description: 'Two children exchange gifts of cups in a garden of flowers and ivy. The scene is bathed in innocence and warmth, representing cherished memories and the pure joy of childhood. This card invites us to reconnect with the wonder and simplicity we once knew. It may indicate a reunion with someone from the past or a return to a time when life felt simpler and filled with unconditional love. The Six of Cups reminds us that revisiting our past with gratitude can bring healing and renewed sense of purpose.',
+    descriptionTh: 'เด็กสองคนแลกเปลี่ยนของขวัญของถ้วยกันในสวนดอกไม้และไม้เลื้อย ฉากนี้อาบน้ำด้วยความไร้เดียงสาและความอบอุ่น เป็นตัวแทนของความทรงจำที่มีคุณค่าและความสุขบริสุทธิ์ของวัยเด็ก ไพ่ใบนี้เชิญชวนให้เราเชื่อมต่อกับความมหัศจรรย์และความเรียบง่ายที่เราเคยรู้ มันอาจบ่งชี้ถึงการพบปะกับคนจากอดีตหรือการกลับไปยังเวลาที่ชีวิตรู้สึกเรียบง่ายกว่าและเต็มไปด้วยความรักที่ไม่มีเงื่อนไข หกแห่งถ้วยเตือนเราว่าการสำรวจอดีตของเราด้วยความกตัญญูสามารถนำคุณมารักษา และการรู้สึกประสงค์ใหม่ได้',
     image: '/tarot/c06.jpg',
   },
   {
@@ -691,6 +731,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'มีหลายทางเลือกต่อหน้าคุณ แต่ระวังภาพลวงตา ยึดมั่นในความเป็นจริง',
     meaningReversed: 'Clarity, making decisions, avoiding temptation.',
     meaningReversedTh: 'ความชัดเจน การตัดสินใจ หลีกเลี่ยงการล่อลวง',
+    description: 'Seven golden cups float in the air, each containing a different vision: wealth, success, love, power, and fantasy. A silhouetted figure gazes at these illusions, drawn to their tempting promises. This card represents the confusion that arises from too many choices and the danger of being seduced by illusions. It warns us to look beyond the surface and question what truly serves our highest good. In a world full of distractions and false promises, clarity comes from discerning what is real and what is merely fantasy.',
+    descriptionTh: 'ถ้วยทองเจ็ดใบลอยอยู่ในอากาศ แต่ละถ้วยมีภาพแตกต่างกัน: ความมั่งคั่ง ความสำเร็จ ความรัก อำนาจ และจินตนาการ บุคคลเงาหนึ่งจ้องมองภาพลวงตาเหล่านี้ ถูกดึงเข้าไปยังสัญญาที่น่าทดลองของพวกเขา ไพ่ใบนี้แสดงถึงความสับสนที่เกิดจากตัวเลือกมากเกินไป และอันตรายของการถูกล่อลวงไปด้วยภาพลวงตา มันเตือนเราให้มองข้ามพื้นผิวและตั้งคำถามว่าสิ่งใดจริง ๆ ที่ให้บริการเรา ในโลกที่เต็มไปด้วยการรบกวนและสัญญาเท็จ ความชัดเจนมาจากการแยกแยะว่าสิ่งใดเป็นจริงและสิ่งใดเป็นเพียงจินตนาการเท่านั้น',
     image: '/tarot/c07.jpg',
   },
   {
@@ -706,6 +748,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'เดินออกจากสิ่งที่ไม่ได้รับใช้คุณอีกต่อไป ค้นหาความหมายที่ลึกกว่า',
     meaningReversed: 'Fear of moving on, staying in unhappy situations, avoidance.',
     meaningReversedTh: 'กลัวที่จะก้าวต่อไป อยู่ในสถานการณ์ที่ไม่มีความสุข การหลีกเลี่ยง',
+    description: 'A figure walks away from eight cups arranged in a semicircle, leaving them behind as they journey into the darkness toward distant mountains. This card symbolizes the courage it takes to abandon what no longer fulfills you. It speaks to spiritual seeking and the pursuit of deeper meaning beyond material satisfaction. The Eight of Cups reminds us that sometimes the bravest thing we can do is walk away from situations that feel comfortable but empty. This departure is not reckless abandonment but a conscious choice to seek what truly matters.',
+    descriptionTh: 'บุคคลหนึ่งเดินออกจากถ้วยแปดใบที่เรียงเป็นครึ่งวงกลม ทิ้งพวกมันไว้เบื้องหลังเมื่อเดินทางลงไปในความมืดไปสู่ภูเขาห่างไกล ไพ่ใบนี้เป็นสัญลักษณ์ของความกล้าหาญที่ต้องใช้ในการละทิ้งสิ่งที่ไม่ทำให้คุณพึงพอใจอีกต่อไป มันพูดถึงการค้นหาทางจิตวิญญาณและการแสวงหาความหมายที่ลึกกว่า แปดแห่งถ้วยเตือนเราว่าบางครั้งสิ่งที่กล้าหาญที่สุดที่เราสามารถทำได้คือการเดินออกจากสถานการณ์ที่รู้สึกสะดวก แต่ว่างเปล่า การจากไปนี้ไม่ใช่การละทิ้งอย่างประมาท แต่เป็นทางเลือกที่มีสติในการค้นหาสิ่งที่สำคัญจริง ๆ',
     image: '/tarot/c08.jpg',
   },
   {
@@ -721,6 +765,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'ความปรารถนาของคุณเป็นจริง! ความเติมเต็มทางอารมณ์และความพึงพอใจ',
     meaningReversed: 'Inner happiness, materialism, dissatisfaction.',
     meaningReversedTh: 'ความสุขภายใน ความยึดติดวัตถุ ความไม่พึงพอใจ',
+    description: 'A wealthy and content figure sits with arms crossed in a pose of satisfaction, with nine golden cups arranged in a semicircle behind them. This card is known as the "wish card" and represents the fulfillment of dreams and desires. The figure\'s satisfied expression and relaxed posture suggest that all their wishes have come to fruition. The Nine of Cups invites celebration of achievements and recognition of blessings. It reminds us that happiness comes from within and that true abundance is experienced when we allow ourselves to enjoy the fruits of our labor and express gratitude for what we have.',
+    descriptionTh: 'บุคคลที่มั่งคั่งและพึงพอใจนั่งโดยวางแขนไขว้ในท่าทางของความพึงพอใจ โดยมีถ้วยทองเก้าใบเรียงเป็นครึ่งวงกลมอยู่ด้านหลัง ไพ่ใบนี้รู้จักกันในชื่อ "wish card" และแสดงถึงการเติมเต็มของความฝันและความปรารถนา สีหน้าที่พึงพอใจและท่าทางคลายของบุคคลแนะนำว่าความปรารถนาทั้งหมดของพวกเขาบรรลุผล เก้าแห่งถ้วยเชิญชวนให้ฉลองความสำเร็จและรับรู้พรลาง มันเตือนเราว่าความสุขมาจากภายในและความอุดมสมบูรณ์ที่แท้จริงนั้นเกิดขึ้นเมื่อเราอนุญาตให้ตัวเองเพลิดเพลินกับผลผลิตของความพยายามของเราและแสดงความกตัญญูสำหรับสิ่งที่เรามี',
     image: '/tarot/c09.jpg',
   },
   {
@@ -736,6 +782,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'ความเติมเต็มทางอารมณ์อย่างสมบูรณ์ ครอบครัวมีความสุขและความสัมพันธ์ที่กลมกลืน',
     meaningReversed: 'Broken family, misalignment of values, family disputes.',
     meaningReversedTh: 'ครอบครัวแตกหัก ค่านิยมไม่ตรงกัน ข้อพิพาทในครอบครัว',
+    description: 'A joyful family celebrates together in a beautiful landscape, with ten golden cups arranged above in the sky like a rainbow. The figures embrace and dance, their love and happiness radiating outward. This is the ultimate card of happiness, family harmony, and divine love. The Ten of Cups represents the completion of emotional and relational fulfillment. It shows us that true wealth is found in loving relationships and the bonds we share with others. This card celebrates not just romantic love, but all forms of deep connection, belonging, and family unity that bring joy to our hearts.',
+    descriptionTh: 'ครอบครัวที่มีความสุขฉลองไปด้วยกันในภูมิทัศน์ที่สวยงาม โดยมีถ้วยทองสิบใบเรียงอยู่เหนือท้องฟ้าเหมือนรุ้ง บุคคลต่าง ๆ โอบกอดและเต้นรำ ความรักและความสุขของพวกเขาแผ่ออกไป นี่คือไพ่สูงสุดของความสุข ความกลมกลืนของครอบครัว และความรักศักดิ์สิทธิ์ สิบแห่งถ้วยแสดงถึงการเสร็จสิ้นของความเติมเต็มทางอารมณ์และความสัมพันธ์ มันแสดงให้เราเห็นว่าความมั่งคั่งแท้จริงพบได้ในความสัมพันธ์ที่มีความรักและพันธะที่เราแบ่งปันกับผู้อื่น ไพ่ใบนี้ฉลองไม่เพียงแต่ความรักโรแมนติก แต่รูปแบบทั้งหมดของการเชื่อมต่อลึก ความเป็นของ และความเป็นหนึ่งเดียวของครอบครัวที่นำความสุขมาสู่หัวใจของเรา',
     image: '/tarot/c10.jpg',
   },
   {
@@ -751,6 +799,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'ข่าวสารแห่งความรักหรือความคิดสร้างสรรค์ เปิดรับประสบการณ์ทางอารมณ์',
     meaningReversed: 'Emotional immaturity, creative blocks, bad news.',
     meaningReversedTh: 'ความไม่เป็นผู้ใหญ่ทางอารมณ์ ความคิดสร้างสรรค์ติดขัด ข่าวร้าย',
+    description: 'A young messenger dressed in colorful robes holds a golden cup with wonder and curiosity. They gaze at the cup as if seeing something magical within it. The Page of Cups represents youth, curiosity, and new beginnings in matters of the heart and creativity. This court card often appears as a messenger bringing news of love, creative opportunities, or artistic inspiration. The Page encourages us to embrace our childlike wonder, follow our intuition, and remain open to the subtle messages the universe sends our way. They remind us that every creative endeavor begins with a spark of curiosity and openness to possibility.',
+    descriptionTh: 'ผู้ส่งข้อความหนุ่มสาวแต่งตัวด้วยเสื้อคลุมสีสันถือถ้วยทองด้วยความมหัศจรรย์และความอยากรู้ พวกเขาจ้องมองถ้วยราวกับว่ากำลังเห็นสิ่งมหัศจรรย์ภายในนั้น เพจแห่งถ้วยแสดงถึงวัยรุ่น ความอยากรู้ และการเริ่มต้นใหม่ในเรื่องของหัวใจและความคิดสร้างสรรค์ ไพ่ศาลนี้มักปรากฏเป็นตัวแทนของศาลนำข่าวสารของความรัก โอกาสสร้างสรรค์ หรือแรงบันดาลใจทางศิลปะ เพจสนับสนุนให้เราโอบรับความมหัศจรรย์ของเด็ก ทำตามสัญชาตญาณ และเปิดรับข้อความลับที่เราได้รับจากเจ้า พวกเขาเตือนเราว่าความพยายามสร้างสรรค์ทุกอย่างเริ่มต้นด้วยประกายของความอยากรู้และเปิดใจต่อความเป็นไปได้',
     image: '/tarot/c11.jpg',
   },
   {
@@ -766,6 +816,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'ทำตามใจของคุณ การขอแต่งงานหรือโอกาสสร้างสรรค์กำลังมา',
     meaningReversed: 'Unrealistic expectations, moodiness, disappointment in love.',
     meaningReversedTh: 'ความคาดหวังที่ไม่สมจริง อารมณ์แปรปรวน ความผิดหวังในความรัก',
+    description: 'A charming and idealistic knight rides upon a white horse, holding a golden cup high. His expression is dreamy and romantic, gazing into an imagined distance. The Knight of Cups embodies romance, artistic sensitivity, and the pursuit of beauty. He is a messenger of love and inspiration, someone who leads with their heart and follows their passionate dreams. This card suggests that a romantic proposal, creative opportunity, or invitation to experience something beautiful is on the horizon. However, it also cautions that the Knight can be swayed by fantasy and illusion. The Knight of Cups reminds us to follow our heart while staying grounded in reality.',
+    descriptionTh: 'อัศวินที่มีเสน่ห์และอุดมการณ์นั่งขี่ม้าสีขาว ถือถ้วยทองสูง สีหน้าของเขาเป็นฝันและโรแมนติก จ้องไปยังระยะห่างที่จินตนาการ อัศวินแห่งถ้วยรวมเอาความโรแมนติก ความไวต่อศิลปะ และการแสวงหาความงาม เขาเป็นตัวแทนของความรักและแรงบันดาลใจ ผู้นำด้วยหัวใจและติดตามความฝันอันเร่งรัด ไพ่ใบนี้แสดงให้เห็นว่าการขอแต่งงานโรแมนติก โอกาสสร้างสรรค์ หรือเชิญชวนให้เข้าไปในประสบการณ์ที่สวยงาม กำลังจะมาถึง อย่างไรก็ตาม มันยังเตือนด้วยว่าอัศวินสามารถถูกแกว่งไปด้วยจินตนาการและภาพลวงตา อัศวินแห่งถ้วยเตือนเราให้ทำตามหัวใจของเรา พร้อมกับยึดมั่นในความเป็นจริง',
     image: '/tarot/c12.jpg',
   },
   {
@@ -781,6 +833,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'เชื่อมั่นในความฉลาดทางอารมณ์ ความเมตตาและการดูแลผู้อื่น',
     meaningReversed: 'Emotional insecurity, codependency, inner turmoil.',
     meaningReversedTh: 'ความไม่มั่นคงทางอารมณ์ การพึ่งพาอาศัยกัน ความปั่นป่วนภายใน',
+    description: 'A serene and nurturing Queen sits upon a throne, holding a golden cup adorned with cherubs. Her calm and compassionate gaze suggests deep emotional wisdom. She is surrounded by water, symbolizing the fluidity of emotions and intuition. The Queen of Cups represents emotional maturity, nurturing love, and intuitive wisdom. She is the embodiment of compassion and empathy, someone who understands the complexities of human emotion. This card reminds us to trust our emotional intelligence, listen to our intuition, and extend compassion to ourselves and others. The Queen of Cups encourages us to create a safe emotional space where feelings can be expressed and honored.',
+    descriptionTh: 'ราชินีที่เงียบสงบและเลี้ยงดูนั่งบนบัลลังก์ ถือถ้วยทองประดับด้วยเชรับ สีหน้าที่สงบและเมตตาของเธอแนะนำปัญญาทางอารมณ์ที่ลึกซึ้ง เธออยู่รอบด้วยน้ำ เป็นสัญลักษณ์ของความเป็นไหลวไลของอารมณ์และสัญชาตญาณ ราชินีแห่งถ้วยแสดงถึงความเป็นผู้ใหญ่ทางอารมณ์ ความรักที่เลี้ยงดู และปัญญาสัญชาตญาณ เธืออยู่ที่เป็นตัวแทนของความเมตตาและการเห็นอกเห็นใจ ผู้ที่เข้าใจความซับซ้อนของอารมณ์มนุษย์ ไพ่ใบนี้เตือนเราให้เชื่อมั่นในความฉลาดทางอารมณ์ ฟังสัญชาตญาณของเรา และขยายความเมตตาต่อตัวเองและผู้อื่น ราชินีแห่งถ้วยสนับสนุนให้เราสร้างพื้นที่อารมณ์ที่ปลอดภัยซึ่งสามารถแสดงและยกย่องความรู้สึก',
     image: '/tarot/c13.jpg',
   },
   {
@@ -796,6 +850,8 @@ export const cups: TarotCard[] = [
     meaningUprightTh: 'ความเป็นผู้ใหญ่และความสมดุลทางอารมณ์ นำด้วยความเมตตาและปัญญา',
     meaningReversed: 'Emotional manipulation, moodiness, volatile.',
     meaningReversedTh: 'การบงการทางอารมณ์ อารมณ์แปรปรวน ไม่แน่นอน',
+    description: 'A powerful and dignified King sits upon a throne surrounded by turbulent water, yet remains calm and unmoved. He holds a golden cup and wears a crown, symbols of emotional mastery and wisdom. Unlike those ruled by their emotions, the King of Cups has achieved emotional balance and control. He leads with wisdom, compassion, and diplomacy, using his emotional understanding to guide and support others. This card represents the pinnacle of emotional maturity—a person who has integrated their feelings with their intellect. The King of Cups reminds us that true strength lies in the ability to feel deeply while maintaining emotional equilibrium and using our wisdom to serve others.',
+    descriptionTh: 'ราชาที่มีพลังและมีศักดิ์ศรีนั่งบนบัลลังก์ล้อมรอบด้วยน้ำที่ปั่นป่วน แต่ยังคงสงบและไม่ขยับ เขาถือถ้วยทองและสวมมงกุฎ สัญลักษณ์ของความเชี่ยวชาญทางอารมณ์และปัญญา ต่างจากผู้ที่ถูกปกครองด้วยอารมณ์ ราชาแห่งถ้วยได้บรรลุความสมดุลทางอารมณ์และการควบคุม เขานำด้วยปัญญา ความเมตตา และการทูต โดยใช้ความเข้าใจทางอารมณ์ของเขาเพื่อแนะนำและสนับสนุนผู้อื่น ไพ่ใบนี้แสดงถึงจุดสูงสุดของความเป็นผู้ใหญ่ทางอารมณ์—บุคคลที่ได้รวมอารมณ์ของตนเข้ากับปัญญา ราชาแห่งถ้วยเตือนเราว่าพลังที่แท้จริงอยู่ในความสามารถที่จะรู้สึกลึกซึ้งพร้อมกับการรักษาสมดุลทางอารมณ์และใช้ปัญญาของเราเพื่อรับใช้ผู้อื่น',
     image: '/tarot/c14.jpg',
   },
 ];
@@ -815,6 +871,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'ความชัดเจนทางจิตใจและความก้าวหน้า ความจริงและความยุติธรรมจะชนะ',
     meaningReversed: 'Confusion, chaos, lack of clarity.',
     meaningReversedTh: 'ความสับสน ความโกลาหล ขาดความชัดเจน',
+    description: 'The Ace of Swords emerges from the clouds, a single sword pointing upward with a crown upon its hilt. The blade is sharp and clear, cutting through mist and confusion. It represents a moment of truth, clarity breaking through the fog of uncertainty. This powerful card symbolizes breakthrough ideas, intellectual power, and the clarity needed to see situations for what they truly are.',
+    descriptionTh: 'เอซแห่งดาบโผล่อกมาจากเมฆ ดาบเดียวชี้ขึ้นไปด้านบน มีมงกุฎวางอยู่บนด้ามจับ ใบพลบสะอาดแล้ว บาดตัดผ่านเมฆและความสับสน มันเป็นตัวแทนของการเจอคนมีจิตใจที่เฉียบคม ชัดเจน ไพ่นี้รวบรวมศักยภาพที่ไร้ขีดจำกัด คำตอบที่ค้นหาอยู่ภายใน ไพ่ใบนี้มันเป็นตัวแทนของความจริง ความชัดเจนทะลุผ่านความมืด มันเตือนเราว่าการเดินทางที่ยิ่งใหญ่ทุกครั้งเริ่มต้นด้วยก้าวเดียว',
     image: '/tarot/s01.jpg',
   },
   {
@@ -830,6 +888,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'ต้องตัดสินใจที่ยาก ชั่งน้ำหนักตัวเลือกอย่างรอบคอบ',
     meaningReversed: 'Indecision, confusion, information overload.',
     meaningReversedTh: 'ความลังเลใจ ความสับสน ข้อมูลมากเกินไป',
+    description: 'A blindfolded figure balances two swords, unable to see the horizon before them. The figure is trapped between two opposing swords, suggesting a stalemate or difficult choice. Behind them lies calm water and a clear path, but they cannot see it due to the blindfold. This card represents the paralysis that comes from being unable to choose, from having too much information, or from avoiding a necessary decision.',
+    descriptionTh: 'บุคคลที่ตาบอดสมดุลดาบสองเล่ม ไม่สามารถเห็นขอบฟ้าข้างหน้าได้ บุคคลนี้ติดอยู่ระหว่างดาบสองเล่มที่ตรงข้าม แสดงถึงการหยุดชะงักหรือการตัดสินใจที่ยาก ด้านหลังมีน้ำสงบและเส้นทางชัดเจน แต่ตัวเองไม่สามารถเห็นได้เนื่องจากผ้าปิดตา ไพ่นี้แสดงถึงการหยุดชะงักที่มาจากการไม่สามารถเลือก ข้อมูลมากเกินไป หรือการหลีกเลี่ยงการตัดสินใจที่จำเป็น',
     image: '/tarot/s02.jpg',
   },
   {
@@ -845,6 +905,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'อกหักและความเจ็บปวดทางอารมณ์ ยอมให้ตัวเองเศร้าและเยียวยา',
     meaningReversed: 'Recovery, forgiveness, moving on from pain.',
     meaningReversedTh: 'การฟื้นตัว การให้อภัย ก้าวต่อจากความเจ็บปวด',
+    description: 'Three swords pierce through a heart beneath stormy clouds and rain. The image is one of deepest pain and sorrow. Yet even in this darkness, there is a hint of light breaking through the clouds, suggesting that pain is temporary and healing will come. This card reminds us that emotional wounds are part of the human experience, and that allowing ourselves to feel the pain is the first step to recovery.',
+    descriptionTh: 'ดาบสามเล่มทิ่มหัวใจภายใต้เมฆพายุและฝน ภาพนี้แสดงถึงความเจ็บปวดและความโศกเศร้าที่ลึกที่สุด แต่แม้ในความมืดมิดนี้ ก็ยังมีแสงสว่างเบาๆ ทะลุออกมาจากเมฆ แสดงถึงว่าความเจ็บปวดเป็นสิ่งชั่วคราวและการเยียวยาจะตามมา ไพ่นี้เตือนเราว่าบาดแผลทางอารมณ์เป็นส่วนหนึ่งของประสบการณ์มนุษย์ และการยอมให้ตัวเองรู้สึกเจ็บปวดเป็นขั้นตอนแรกต่อการฟื้นตัว',
     image: '/tarot/s03.jpg',
   },
   {
@@ -860,6 +922,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'ต้องการพักผ่อนและฟื้นตัว ใช้เวลาทำสมาธิและเยียวยา',
     meaningReversed: 'Restlessness, burnout, need for solitude.',
     meaningReversedTh: 'ความกระสับกระส่าย การหมดแรง ต้องการความสันโดษ',
+    description: 'A warrior lies in repose upon an altar, four swords hung on the wall above and one resting on their body. The warrior is at peace, having set down their weapons after battle. Stained glass windows cast colored light into the chapel, suggesting spiritual solitude and reflection. This card represents the necessary rest and recovery that comes after conflict, and the importance of taking time to meditate and heal.',
+    descriptionTh: 'นักรบนอนพักผ่อนบน祭壇 ดาบสี่เล่มแขวนอยู่บนผนังด้านบน และดาบหนึ่งเล่มวางอยู่บนตัวของพวกเขา นักรบนี้สงบ หลังจากวางอาวุธลงหลังการสู้รบ หน้าต่างกระจกสีหลากหลายส่องแสงสีลงในโบสถ์ แสดงถึงความสันโดษทางจิตวิญญาณและการไตร่ตรอง ไพ่นี้แสดงถึงการพักผ่อนและฟื้นตัวที่จำเป็นซึ่งมาหลังจากความขัดแย้ง และความสำคัญของการใช้เวลาทำสมาธิและเยียวยา',
     image: '/tarot/s04.jpg',
   },
   {
@@ -875,6 +939,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'ความขัดแย้งและความตึงเครียด การชนะอาจมีราคาสูงเกินไป',
     meaningReversed: 'Reconciliation, making amends, past resentments.',
     meaningReversedTh: 'การคืนดี การชดเชย ความขุ่นเคืองในอดีต',
+    description: 'A figure stands victoriously holding two swords aloft while three lie scattered on the ground behind them. The scene is one of conflict and its aftermath. While the figure may have won the battle, they stand alone against a darkened sky, suggesting the cost of their victory. This card reminds us that winning at all costs can leave us isolated and empty, and that sometimes the greatest victory is knowing when to stop fighting and seek peace.',
+    descriptionTh: 'บุคคลคนหนึ่งยืนอยู่ด้วยความชัยชนะ ถือดาบสองเล่มสูงขึ้น ในขณะที่สามเล่มนอนกระจายอยู่บนพื้นด้านหลัง ฉากนี้คือความขัดแย้งและผลลัพธ์ที่ตามมา แม้ว่าบุคคลนี้อาจได้รับชัยชนะในการสู้รบ พวกเขาจึงยืนอยู่คนเดียวกับท้องฟ้าที่มืดลง แสดงถึงราคาแพงของชัยชนะของพวกเขา ไพ่นี้เตือนเราว่าการชนะด้วยทุกค่าใช้จ่ายสามารถทำให้เราโดดเดี่ยวและว่างเปล่า และบางครั้งชัยชนะที่ยิ่งใหญ่ที่สุดคือการรู้เมื่อควรหยุดการต่อสู้และแสวงหาสันติภาพ',
     image: '/tarot/s05.jpg',
   },
   {
@@ -890,6 +956,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'ก้าวไปข้างหน้าจากความยากลำบาก เปลี่ยนผ่านสู่น่านน้ำที่สงบกว่า',
     meaningReversed: 'Stuck in the past, resisting transition, unfinished business.',
     meaningReversedTh: 'ติดอยู่กับอดีต ต่อต้านการเปลี่ยนผ่าน ธุระที่ยังไม่เสร็จ',
+    description: 'A boatman ferries six people across calm waters, each carrying a sword. They are departing from the stormy shore toward clearer skies. The journey is peaceful and purposeful, suggesting a safe passage from turmoil to tranquility. This card represents moving beyond conflict and difficulty, leaving the old behind, and sailing toward a better future. The six swords indicate that the journey is shared and supported by others.',
+    descriptionTh: 'นาวิกชายหากรรม 6 คน ข้ามน้ำสงบ คนแต่ละคนถืออาวุธหนึ่ง พวกเขากำลังออกจากชายฝั่งที่พายุมาจากเด้งไปยังท้องฟ้าที่ชัดเจนกว่า การเดินทางนี้เป็นการเดินทางที่สงบสุขและมีจุดประสงค์ แสดงถึงการผ่านอย่างปลอดภัยจากความวุ่นวายไปสู่ความสงบ ไพ่นี้แสดงถึงการเลื่อนไปนอกความขัดแย้งและความยากลำบาก การปล่อยอดีตออกไป และแล่นไปหาอนาคตที่ดีกว่า ดาบหกเล่มบ่งชี้ว่าการเดินทางนี้เป็นการเดินทางที่ใช้ร่วมกันและได้รับการสนับสนุนจากผู้อื่น',
     image: '/tarot/s06.jpg',
   },
   {
@@ -905,6 +973,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'อาจมีการหลอกลวงหรือกลยุทธ์ ระวังแรงจูงใจที่ซ่อนเร้น',
     meaningReversed: 'Coming clean, rethinking approach, confession.',
     meaningReversedTh: 'สารภาพ คิดใหม่เกี่ยวกับวิธีการ การยอมรับ',
+    description: 'A figure sneaks away from a tent carrying five swords, leaving two behind. The figure moves with caution under the moonlit night, glancing back at what was left. Dark clouds gather in the distance, reflecting the tension and unease of the moment. This card depicts cunning strategy and tactical withdrawal.',
+    descriptionTh: 'บุคคลหนึ่งแอบอออกจากเต็นท์ถือดาบเล่มไว้ ทิ้งดาบเล่มอื่นไว้ บุคคลนี้เคลื่อนตัวด้วยความระมัดระวังในคืนที่ดวงจันทร์ส่องแสง มองเหลียวมองไปทีสิ่งที่ถูกทิ้งไว้ เมฆมืดสะสมตัวไปในระยะไกล สะท้อนความตึงเครียดและความกังวลของชั่วเวลานี้ ไพ่นี้แสดงกลยุทธ์ที่ชาญฉลาดและการถอยหนีอยู่ด้วยวิธีการทางยุทธศาสตร์',
     image: '/tarot/s07.jpg',
   },
   {
@@ -920,6 +990,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'รู้สึกถูกกับดักโดยสถานการณ์ ข้อจำกัดอาจเป็นสิ่งที่ตัวเองสร้างขึ้น',
     meaningReversed: 'Self-acceptance, new perspective, freedom.',
     meaningReversedTh: 'การยอมรับตัวเอง มุมมองใหม่ อิสรภาพ',
+    description: 'A woman sits blindfolded with her hands bound, surrounded by eight standing swords forming a cage around her. Dark stone walls loom in the background, emphasizing confinement. Despite the physical restraints, her posture suggests she could escape if she removed the blindfold and broke free from her own limitations.',
+    descriptionTh: 'ผู้หญิงคนหนึ่งนั่งด้วยผ้าปิดตาและมือถูกมัด ล้อมรอบด้วยดาบแปดเล่มที่สร้างกำแพงรอบตัว กำแพงหินสีเข้มมองเห็นใจกลัวในพื้นหลัง แสดงถึงการถูกกักขัง แม้ว่าจะถูกมัดจับทางกายภาพ แต่ท่านของหญิงชนนี้บ่งชี้ว่าเธอสามารถหนีออกได้หากเธอถอดผ้าปิดตาออกแล้วแตกตัวจากข้อจำกัดของตัวเอง',
     image: '/tarot/s08.jpg',
   },
   {
@@ -935,6 +1007,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'ความวิตกกังวลและความกังวลทำให้คุณนอนไม่หลับ เผชิญหน้ากับความกลัว',
     meaningReversed: 'Inner turmoil, secrets, releasing worry.',
     meaningReversedTh: 'ความปั่นป่วนภายใน ความลับ การปลดปล่อยความกังวล',
+    description: 'A figure lies in bed at night, covered in darkness with nine swords mounted on the wall above. The person\'s face shows anguish and restlessness, caught in a troubled sleep. Moonlight filters through a window, casting long shadows. This haunting image captures the weight of anxious thoughts and nightmares that plague the mind during sleepless nights.',
+    descriptionTh: 'บุคคลหนึ่งนอนอยู่บนเตียงในคืนที่มืด ลอบด้วยเม็ดเลือดด้วยดาบเก้าเล่มติดบนผนังเหนือศีรษะ ใบหน้าของบุคคลแสดงความเจ็บปวดและความไม่สงบ ติดอยู่ในการนอนที่ปั่นป่วน แสงจันทร์ส่องผ่านหน้าต่าง สร้างเงาที่ยาวนาน ภาพนี้แสดงถึงภาระของความคิดที่วิตกกังวลและฝันร้ายที่ตามหาจิตใจในคืนที่นอนไม่หลับ',
     image: '/tarot/s09.jpg',
   },
   {
@@ -950,6 +1024,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'จุดต่ำสุด การสิ้นสุดที่เจ็บปวด แต่รุ่งอรุณจะตามมาหลังคืนที่มืดมิดที่สุด',
     meaningReversed: 'Recovery, regeneration, resisting ending.',
     meaningReversedTh: 'การฟื้นตัว การเกิดใหม่ การต่อต้านการสิ้นสุด',
+    description: 'A figure lies face-down on the ground, pierced by ten swords. Dark storm clouds gather overhead while a hint of dawn breaks on the horizon. Blood drips from the figure, yet the image is stark and cold rather than gory. This card represents hitting the lowest point, complete defeat, and the painful endings that precede new beginnings.',
+    descriptionTh: 'บุคคลหนึ่งนอนหงายบนพื้นดิน ถูกดาบสิบเล่มเจาะทะลุ เมฆพายุมืดสะสมตัวเหนือศีรษะ ขณะเดียวกันรุ่งอรุณกำลังปรากฏบนขอบฟ้า เลือดไหลจากตัวบุคคล แต่ภาพดูเข้มข้นและเย็นชาเป็นไปสวรรค์ ไพ่นี้แทนการตกถึงจุดต่ำสุด ความพ่ายแพ้สิ้นเชิง และการสิ้นสุดที่เจ็บปวดที่มาก่อนการเริ่มต้นใหม่ให้',
     image: '/tarot/s10.jpg',
   },
   {
@@ -965,6 +1041,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'อยากรู้อยากเห็นและกระตือรือร้นที่จะเรียนรู้ ความคิดใหม่และความคล่องแคล่วทางจิต',
     meaningReversed: 'Deception, manipulation, all talk no action.',
     meaningReversedTh: 'การหลอกลวง การบงการ พูดมากทำน้อย',
+    description: 'A young squire holds an upright sword with keen focus, standing with alert posture. Mountains and clear skies surround the figure, suggesting a landscape full of possibilities. The sword gleams brightly in the light, representing new mental clarity and keen intellect. This youthful warrior embodies intellectual curiosity and the excitement of discovery.',
+    descriptionTh: 'สควายร์ (ลูกเพจของอัศวิน) มือถือดาบตั้งตรงด้วยสมาธิที่เข้มข้น ยืนด้วยท่าทางที่ระวังอย่างดี ภูเขาและท้องฟ้าที่แจ่มใสล้อมรอบบุคคล บ่งชี้ว่าแนวทางเต็มไปด้วยความเป็นไปได้มากมาย ดาบมีคว่ามสูงสุดในแสงสว่าง แทนความชัดเจนทางจิตใจใหม่ๆและความฉลาดแหลม ด้วยนักรบหนุ่มนี้รวบรวมความอยากรู้ของจิตใจและความตื่นเต้นของการค้นพบ',
     image: '/tarot/s11.jpg',
   },
   {
@@ -980,6 +1058,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'พุ่งไปข้างหน้าด้วยความมุ่งมั่น การกระทำที่รวดเร็วและความคิดที่ชัดเจน',
     meaningReversed: 'Impulsive, unfocused, rushing into things.',
     meaningReversedTh: 'หุนหันพลันแล่น ไม่มีสมาธิ รีบร้อนเกินไป',
+    description: 'A knight charges forward on horseback, wielding a sword high above his head with dynamic energy. Wind whips around his figure, carrying feathers from nearby clouds. The landscape rushes past in motion, conveying speed and urgency. His sharp, determined expression shows focus on the goal ahead. This card captures the essence of swift action and forceful determination.',
+    descriptionTh: 'อัศวินคนหนึ่งคว่ำบนม้าพุ่งไปข้างหน้า ถือดาบสูงขึ้นเหนือหัวด้วยพลังงานทางไดนามิก ลมเหวี่ยงพัดรอบตัวเขา บรรทุกขนนกจากเมฆข้างเคียง ภูมิประเทศเลื่อนไปนอกในการเคลื่อนที่อย่างรวดเร็ว สื่อถึงความเร็วและความเร่งด่วน สำนักที่คมชัดและมุ่งมั่นของเขาแสดงให้เห็นความสนใจไปยังเป้าหมายข้างหน้า ไพ่นี้บันทึกสาระสำคัญของการกระทำที่รวดเร็วและความมุ่งมั่นที่แข็งแกร่ง',
     image: '/tarot/s12.jpg',
   },
   {
@@ -995,6 +1075,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'การสื่อสารที่ชัดเจนและตรงไปตรงมา กำหนดขอบเขตด้วยความเมตตา',
     meaningReversed: 'Cold-hearted, cruel, bitterness.',
     meaningReversedTh: 'ใจร้าย โหดเหี้ยม ความขมขื่น',
+    description: 'A queen sits regally on her throne, holding an upright sword with sharp precision. Her expression is stern yet wise, conveying both authority and clarity of mind. Clouds swirl in the background, representing ethereal thoughts and intellect. Her posture is composed and dignified, showing she is grounded in her convictions. This card embodies intellectual authority and unbiased judgment with compassionate wisdom.',
+    descriptionTh: 'ราชินีคนหนึ่งปรากฏโสสร้างบัลลังก์อย่างสง่างามและปราณติ ถือดาบตั้งตรงด้วยความแม่นยำ สีหน้าของเธอเข้มงวดแต่ปราญญาวาณ สื่อถึงอำนาจและความชัดเจนของจิตใจ เมฆลอยไปมาในพื้นหลัง สื่อถึงความคิดที่ว่องไว้ และปัญญา ท่าทางของเธอนั่งเย็นสงบและสง่างาม แสดงว่าเธอมีพื้นฐานที่มั่นคงในความเชื่อ ไพ่นี้รวบรวมอำนาจทางปัญญาและการตัดสินใจที่ไม่ลำเอียงพร้อมปัญญาที่เต็มไปด้วยเมตตา',
     image: '/tarot/s13.jpg',
   },
   {
@@ -1010,6 +1092,8 @@ export const swords: TarotCard[] = [
     meaningUprightTh: 'นำด้วยตรรกะและปัญญา ตัดสินใจบนพื้นฐานของความจริง',
     meaningReversed: 'Manipulative, tyrannical, abusing power.',
     meaningReversedTh: 'บงการ เผด็จการ ใช้อำนาจในทางที่ผิด',
+    description: 'A king sits commanding on his throne, holding an upright sword with absolute authority. His piercing gaze looks straight ahead, conveying penetrating wisdom and mental mastery. Storm clouds gather behind him, symbolizing his control over intellectual forces. His posture is rigid and authoritative, reflecting complete command of logic and reason. This card represents the pinnacle of intellectual power and truth-seeking.',
+    descriptionTh: 'ราชาคนหนึ่งปรากฏนั่งบนบัลลังก์อย่างทรงอำนาจ ถือดาบตั้งตรงด้วยสัมบูรณ์ สายตาที่ทะลุทะลวงของเขามองตรงไปข้างหน้า สื่อถึงปัญญาที่ลึกลับและการเชี่ยวชาญทางจิต เมฆพายุสะสมตัวด้านหลังของเขา สัญลักษณ์ของการควบคุมของเขาเหนือพลังงานทางจิตใจ ท่าทางของเขาแข็งแกร่งและทรงอำนาจ สะท้อนถึงการควบคุมที่สมบูรณ์ของตรรกะและเหตุผล ไพ่นี้แทนจุดสูงสุดของพลังทางปัญญาและการแสวงหาความจริง',
     image: '/tarot/s14.jpg',
   },
 ];
@@ -1029,6 +1113,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'โอกาสทางการเงินหรืออาชีพใหม่ ปลูกเมล็ดพันธุ์แห่งความเจริญรุ่งเรือง',
     meaningReversed: 'Lost opportunity, lack of planning, scarcity mindset.',
     meaningReversedTh: 'โอกาสที่สูญเสียไป ขาดการวางแผน ความคิดแบบขาดแคลน',
+    description: 'A single pentacle coin floats above a pair of hands, surrounded by lush green vines and flowers. The coin represents material wealth, security, and prosperity. The hands are open and receptive, suggesting readiness to receive abundance. This is a card of new beginnings in financial matters—a job offer, inheritance, or business opportunity. The Ace of Pentacles reminds us that abundance flows to those who are ready to receive it and willing to nurture their financial seeds with practical action.',
+    descriptionTh: 'เหรียญเดียวลอยอยู่เหนือคู่มือ ล้อมรอบด้วยเถาวัลยาสีเขียวสดใหม่และดอกไม้ เหรียญแสดงถึงความมั่งคั่ง ความมั่นคง และความเจริญรุ่งเรือง มือทั้งสองเปิดอยู่และพร้อมรับ แสดงให้เห็นความพร้อมที่จะรับความอุดมสมบูรณ์ นี่คือไพ่ของการเริ่มต้นใหม่ในเรื่องทางการเงิน—โอกาสในการทำงาน มรดก หรือโอกาสทางธุรกิจ เอซแห่งเหรียญเตือนเราว่าความอุดมสมบูรณ์ไหลไปหาผู้ที่พร้อมที่จะรับและเต็มใจที่จะปลูกเมล็ดพันธุ์ทางการเงินของตนด้วยการกระทำที่ปฏิบัติได้จริง',
     image: '/tarot/p01.jpg',
   },
   {
@@ -1044,6 +1130,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'จัดการหลายสิ่งพร้อมกัน ยืดหยุ่นและปรับตัวได้',
     meaningReversed: 'Overwhelmed, disorganized, financial stress.',
     meaningReversedTh: 'ถูกครอบงำ ไม่เป็นระเบียบ ความเครียดทางการเงิน',
+    description: 'A figure gracefully juggles two pentacles while dancing, with a ship sailing on water in the background. The juggler maintains perfect balance despite the multiple demands, suggesting adaptability and resourcefulness. This card portrays the delicate art of balancing different priorities, whether financial, work-related, or personal. The Two of Pentacles reminds us that life often requires us to juggle multiple responsibilities, and success comes from staying flexible, organized, and maintaining perspective during busy times.',
+    descriptionTh: 'บุคคลหนึ่งจัดเหรียญสองเล่มอย่างสวยงามพร้อมกับการเต้นรำ มีเรือแล่นบนน้ำในพื้นหลัง นักจัดเหรียญรักษาความสมดุลอย่างสมบูรณ์แม้มีความต้องการหลายประการ แสดงให้เห็นความสามารถในการปรับตัวและความคิดสร้างสรรค์ ไพ่นี้แสดงถึงศิลปะอันละเอียดอ่อนของการสมดุลลำดับความสำคัญที่แตกต่างกัน ไม่ว่าจะเป็นทางการเงิน การทำงาน หรือส่วนตัว สองแห่งเหรียญเตือนเราว่าชีวิตมักต้องให้เราจัดการหลายสิ่งพร้อมกัน และความสำเร็จมาจากการยืดหยุ่น เป็นระเบียบ และรักษาสมดุลจิตใจในช่วงเวลาที่ยุ่งวุ่นวาย',
     image: '/tarot/p02.jpg',
   },
   {
@@ -1059,6 +1147,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'การทำงานเป็นทีมนำไปสู่ความสำเร็จ ความร่วมมือและงานที่มีฝีมือได้ผลตอบแทน',
     meaningReversed: 'Lack of teamwork, disharmony, mediocrity.',
     meaningReversedTh: 'ขาดการทำงานเป็นทีม ความไม่ลงรอยกัน ความธรรมดา',
+    description: 'Three craftsmen work together in a cathedral, carefully crafting a stone wall. Each figure contributes their unique skills and expertise to create something beautiful and lasting. The architectural setting shows the permanence of their collaborative work. This card celebrates the power of teamwork, collaboration, and shared expertise. The Three of Pentacles reminds us that greatness is rarely achieved alone—by combining our talents with others, we can create works of true value and significance. It encourages us to seek mentorship, share knowledge, and appreciate the contributions of our team.',
+    descriptionTh: 'ช่างฝีมือสามคนทำงานร่วมกันในคริสตศาสตร์ เอาใจใส่ในการสร้างกำแพงหิน บุคคลแต่ละคนมีส่วนสนับสนุนด้วยทักษะและความเชี่ยวชาญเฉพาะตัวเพื่อสร้างสิ่งที่สวยงามและยั่งยืน สภาพแวดล้อมสถาปัตยกรรมแสดงถึงความถาวรของงานที่ร่วมมือกัน ไพ่นี้เฉลิมฉลองพลังของการทำงานเป็นทีม ความร่วมมือ และความเชี่ยวชาญที่แบ่งปัน สามแห่งเหรียญเตือนเราว่าความยิ่งใหญ่ไม่ค่อยบรรลุได้ตามลำพัง—ด้วยการรวมพรสวรรค์ของเรากับผู้อื่น เราสามารถสร้างสิ่งที่มีคุณค่าและความสำคัญที่แท้จริง มันสนับสนุนให้เราแสวงหาการเรียนรู้จากผู้อื่น แบ่งปันความรู้ และขอบคุณการสนับสนุนของทีมของเรา',
     image: '/tarot/p03.jpg',
   },
   {
@@ -1074,6 +1164,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'ความมั่นคงทางการเงินผ่านการออม ระวังอย่าสะสมมากเกินไป',
     meaningReversed: 'Greed, materialism, self-protection.',
     meaningReversedTh: 'ความโลภ ความยึดติดวัตถุ การปกป้องตัวเอง',
+    description: 'A figure sits on a throne, clutching pentacles tightly with a crown upon their head. The figure holds security through physical control, but the tight grip suggests anxiety and fear of loss. The city walls behind represent the safety they have created, but also isolation. While security is important, this card warns against becoming so attached to material possessions that we lose the ability to share, grow, and experience freedom. The Four of Pentacles teaches us that true security comes from balance—holding resources without fear of loss, and knowing when to release our grip.',
+    descriptionTh: 'บุคคลหนึ่งนั่งบนบัลลังก์ จับเหรียญไว้อย่างแน่นหนา มีมงกุฎวางอยู่บนศีรษะ บุคคลนี้มีความมั่นคงผ่านการควบคุมทางกายภาพ แต่การจับที่แน่นหนาแสดงถึงความวิตกกังวลและความกลัวการสูญเสีย กำแพงเมืองด้านหลังแสดงถึงความปลอดภัยที่พวกเขาสร้างขึ้น แต่ยังแสดงถึงการโดดเดี่ยว ขณะที่ความมั่นคงเป็นสิ่งสำคัญ ไพ่นี้เตือนเราอย่าติดพันกับทรัพย์สินวัตถุมากจนเราสูญเสียความสามารถในการแบ่งปัน เติบโต และสัมผัสความเป็นอิสระ สี่แห่งเหรียญสอนเราว่าความมั่นคงที่แท้จริงมาจากความสมดุล—ถือเอาทรัพยากรโดยไม่กลัวการสูญเสีย และรู้ว่าเมื่อไหร่ควรผ่อนปล่อยการจับของเรา',
     image: '/tarot/p04.jpg',
   },
   {
@@ -1089,6 +1181,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'ความยากลำบากทางการเงินหรือรู้สึกถูกทอดทิ้ง ความช่วยเหลือมีถ้าคุณแสวงหา',
     meaningReversed: 'Recovery from financial loss, spiritual poverty, charity.',
     meaningReversedTh: 'การฟื้นตัวจากการสูญเสียทางการเงิน ความยากจนทางจิตวิญญาณ การกุศล',
+    description: 'Two figures walk through snow, poorly clothed, in front of a glowing church window. They appear to be in hardship, yet help is available just beyond them in the form of the church. This card often depicts a period of financial struggle, loss, or feeling abandoned. However, it carries an important message—help is always available if we reach out and ask for it. The Five of Pentacles reminds us that difficult times are temporary, support systems exist, and there is no shame in seeking help when in need. It also suggests that hardship can deepen our compassion for others in similar situations.',
+    descriptionTh: 'บุคคลสองคนเดินผ่านหิมะ แต่งตัวไม่ดี หน้าหน้าต่างของโบสถ์ที่ส่องแสง พวกเขาดูเหมือนกำลังประสบความยากลำบาก แต่ความช่วยเหลือมีอยู่ใกล้ๆ ในรูปแบบของโบสถ์ ไพ่นี้มักแสดงถึงช่วงเวลาของการต่อสู้ทางการเงิน การสูญเสีย หรือรู้สึกถูกทอดทิ้ง อย่างไรก็ตาม มันมีข้อความที่สำคัญ—ความช่วยเหลือมีอยู่เสมออย่างไรก็ตาม หากเรายื่นมือและขออย่างไร ห้าแห่งเหรียญเตือนเราว่าช่วงเวลาที่ยากลำบากเป็นเพียงชั่วคราว ระบบการสนับสนุนมีอยู่ และไม่มีความอาย ในการขอความช่วยเหลือเมื่อมีความต้องการ มันยังแสดงให้เห็นว่าการเดือดร้อนสามารถเพิ่มความเอาใจใส่ของเราต่อผู้อื่นในสถานการณ์ที่คล้ายกัน',
     image: '/tarot/p05.jpg',
   },
   {
@@ -1104,6 +1198,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'ความเอื้อเฟื้อไหลทั้งสองทาง แบ่งปันความอุดมสมบูรณ์กับผู้อื่น',
     meaningReversed: 'Debt, selfishness, strings attached.',
     meaningReversedTh: 'หนี้สิน ความเห็นแก่ตัว มีเงื่อนไขแอบแฝง',
+    description: 'A merchant holds a golden scale, weighing pentacles for distribution. He gives generously to those in need, but does so with fairness and balance. The scale represents impartial distribution and equality. This card represents the joy of giving and receiving in equal measure. The Six of Pentacles teaches that abundance is meant to be shared, and that generosity creates a flow of energy that returns to us. It encourages us to give without expecting immediate return, to receive gracefully, and to recognize that helping others is ultimately a gift to ourselves. This card celebrates mutual support and the interconnectedness of humanity.',
+    descriptionTh: 'พ่อค้าคนหนึ่งถือชั่งทอง ชั่งเหรียญเพื่อการแจกจ่าย พระองค์ให้อย่างไม่ประมาณกับผู้ที่มีความต้องการ แต่ทำเช่นนั้นด้วยความยุติธรรมและความสมดุล ชั่งแสดงถึงการแจกจ่ายอย่างเป็นกลางและความเท่าเทียม ไพ่นี้เป็นตัวแทนของความสุขในการให้และรับเป็นสัดส่วนเท่ากัน หกแห่งเหรียญสอนว่าความอุดมสมบูรณ์มีไว้เพื่อแบ่งปัน และความเอื้อเฟื้อสร้างการไหลของพลังงานที่กลับมาหาเรา มันสนับสนุนให้เราให้โดยไม่คาดหวังการตอบแทนทันที ให้รับอย่างสง่างาม และตระหนักว่าการช่วยเหลือผู้อื่นในท้ายที่สุดเป็นของขวัญให้กับตัวเอง ไพ่นี้เฉลิมฉลองการสนับสนุนซึ่งกันและกันและความเป็นอันหนึ่งอันเดียวกันของมนุษยชาติ',
     image: '/tarot/p06.jpg',
   },
   {
@@ -1119,6 +1215,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'ความอดทนได้ผล ทบทวนความก้าวหน้าและวางแผนสำหรับความสำเร็จระยะยาว',
     meaningReversed: 'Impatience, lack of reward, bad investment.',
     meaningReversedTh: 'ความใจร้อน ขาดรางวัล การลงทุนที่ไม่ดี',
+    description: 'A farmer pauses to look at his seven pentacles planted in the earth, contemplating his progress. The pentacles are growing but not yet fully mature. The farmer\'s posture shows both satisfaction with work done and reflection on what comes next. This card represents assessment and evaluation at a critical point in a project or investment. The Seven of Pentacles reminds us that success requires patience, sustained effort, and regular review of our progress. It asks us to consider whether our investments—financial, emotional, or otherwise—are yielding the results we desire, and to adjust our approach if needed. This card celebrates the commitment to long-term goals and the wisdom to pause and evaluate along the way.',
+    descriptionTh: 'ชาวนาหยุดนิ่งเพื่อมองไปที่เหรียญเจ็ดใบที่ปลูกไว้ในดิน สะท้อนความก้าวหน้าของเขา เหรียญกำลังเติบโต แต่ยังไม่บรรลุความสูง เท่านักชาวนาแสดงให้เห็นความพึงพอใจกับงานที่ทำเสร็จและการสะท้อนว่าจะมาต่อไป ไพ่นี้เป็นตัวแทนของการประเมินผลและการวิเคราะห์ที่จุดวิกฤตในโครงการหรือการลงทุน เจ็ดแห่งเหรียญเตือนเราว่าความสำเร็จต้องใจเย็น ความพยายามที่ต่อเนื่อง และการทบทวนความก้าวหน้าเป็นประจำ มันถามว่าการลงทุนของเรา—ทางการเงิน ทางอารมณ์ หรืออื่นๆ—ให้ผลลัพธ์ที่เราต้องการหรือไม่ และการปรับปรุงวิธีการของเราหากจำเป็น ไพ่นี้เฉลิมฉลองการมุ่งมั่นต่อเป้าหมายระยะยาวและปัญญาที่จะหยุดนิ่งและประเมินผล',
     image: '/tarot/p07.jpg',
   },
   {
@@ -1134,6 +1232,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'มุ่งเน้นฝึกฝนทักษะ ความทุ่มเทต่องานฝีมือนำมาซึ่งความเชี่ยวชาญ',
     meaningReversed: 'Lack of focus, perfectionism, no ambition.',
     meaningReversedTh: 'ขาดสมาธิ ความสมบูรณ์แบบเกินไป ไม่มีความทะเยอทะยาน',
+    description: 'A young apprentice sits beneath a linden tree, carefully crafting pentacles under the watchful gaze of a master. Eight perfectly shaped pentacles hang on the wall above him, representing the skills he is mastering. His focused attention and dedication are evident in his posture and concentration. The Eight of Pentacles symbolizes the journey toward expertise, reminding us that all great achievements require practice, patience, and a willingness to learn. This card encourages us to invest in ourselves and develop our talents through persistent effort.',
+    descriptionTh: 'ลูกศิษย์หนุ่มนั่งอยู่ใต้ต้นลินเดน อย่างรอบคอบสร้างเหรียญขึ้นภายใต้การดูแลของอาจารย์ เหรียญแปดดวงที่มีรูปทรงสมบูรณ์แบบแขวนอยู่บนผนังเหนือเขา แสดงถึงทักษะที่เขากำลังเชี่ยวชาญ ความสนใจที่มุ่งเน้นและความทุ่มเทของเขาเห็นได้ชัดจากท่าทีและการสมาธิ ไพ่แปดแห่งเหรียญเป็นสัญลักษณ์ของการเดินทางสู่ความเชี่ยวชาญ เตือนเราว่าความสำเร็จครั้งใหญ่ทั้งหมดต้องการการฝึกฝน คำอดทน และความเต็มใจในการเรียนรู้ ไพ่ใบนี้สนับสนุนให้เราลงทุนในตัวเอง และพัฒนาพรสวรรค์ของเราผ่านความพยายามอย่างสม่ำเสมอ',
     image: '/tarot/p08.jpg',
   },
   {
@@ -1149,6 +1249,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'เพลิดเพลินกับผลของการทำงาน ความเป็นอิสระทางการเงินและความหรูหรา',
     meaningReversed: 'Over-investment in work, hustling, superficial success.',
     meaningReversedTh: 'ลงทุนในงานมากเกินไป ทำงานหนักเกินไป ความสำเร็จผิวเผิน',
+    description: 'A wealthy woman stands in a luxurious garden, adorned in fine clothing and jewels, holding a falcon on her wrist as a symbol of her refined tastes. Around her bloom abundant grapevines heavy with fruit, representing prosperity and plenty. She gazes contentedly upon her surroundings, having earned the freedom to enjoy life on her own terms. The Nine of Pentacles celebrates self-made abundance, success earned through effort, and the rewards of independence. This card reminds us that true wealth is not merely material, but includes the freedom, security, and peace of mind that come from self-sufficiency.',
+    descriptionTh: 'สตรีผู้มั่งคั่งยืนอยู่ในสวนหรูหรา แต่งตัวด้วยเสื้อผ้าและเครื่องประดับอันมีค่า ถือเหยี่ยวไว้บนข้อมือเป็นสัญลักษณ์ของรสนิยมที่บริษัท รอบนอกมีสวนองุ่นอุดมสมบูรณ์เต็มไปด้วยผล แทนความอุดมสมบูรณ์และความเหลือเฟือ เธอจ้องมองท้องฟ้าโดยดูเหมือนพอใจ หลังจากที่เธอได้รับความเป็นอิสระ เพลิดเพลินกับชีวิตตามเงื่อนไขของตัวเอง ไพ่เก้าแห่งเหรียญเฉลิมฉลองความอุดมสมบูรณ์ที่สร้างสรรค์ของตัวเอง ความสำเร็จที่ได้มาจากความพยายาม และผลตอบแทนของความเป็นอิสระ ไพ่ใบนี้เตือนเราว่าความมั่งคั่งที่แท้จริงไม่ได้เป็นเพียงวัตถุ แต่รวมถึงความเป็นอิสระ ความมั่นคง และความสงบสุขใจที่มาจากการพึ่งพาตนเอง',
     image: '/tarot/p09.jpg',
   },
   {
@@ -1164,6 +1266,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'ความมั่งคั่งที่ยั่งยืนและมรดกครอบครัว ความมั่นคงผ่านหลายชั่วอายุคน',
     meaningReversed: 'Family disputes, bankruptcy, loss of legacy.',
     meaningReversedTh: 'ข้อพิพาทในครอบครัว การล้มละลาย การสูญเสียมรดก',
+    description: 'An elderly patriarch stands beneath an ornate archway with his entire family gathered around him—children, grandchildren, and even a dog—all dressed in fine clothing. Behind them lies a stately manor and manicured gardens, representing accumulated wealth and family estates. Ten golden pentacles are displayed prominently, symbolizing the completion of material security and the establishment of a legacy. The Ten of Pentacles speaks of family harmony, inheritance, and the fruits of generations of labor coming to fruition. This card celebrates the establishment of enduring family traditions and the security that comes from building something that lasts beyond one lifetime.',
+    descriptionTh: 'ชายแก่ที่เป็นประมุขครอบครัวยืนอยู่ใต้ประตูโค้งอันซับซ้อน พร้อมครอบครัวทั้งหมดรวมตัวกันรอบตัวเขา เด็กๆ หลาน แม้แต่สุนัขด้วย ทั้งหมดแต่งตัวด้วยเสื้อผ้าปราดเปรียว ด้านหลังเขามีบ้านดั่งเดิมและสวนที่ปลูกแต่งเป็นระเบียบ แทนความมั่งคั่งที่สะสมและที่ดินของครอบครัว เหรียญทองสิบดวงแสดงอย่างโดดเด่น สัญลักษณ์ของการสำเร็จของความมั่นคงทางวัตถุและการสถาปนาของมรดก ไพ่สิบแห่งเหรียญพูดถึงความสามัคคีของครอบครัว มรดก และผลของการทำงานหลายชั่วอายุคนที่บรรลุผล ไพ่ใบนี้เฉลิมฉลองการสถาปนาประเพณีครอบครัวที่ยั่งยืนและความมั่นคงที่มาจากการสร้างสิ่งที่ยั่งยืนเกินกว่าชั่วอายุคน',
     image: '/tarot/p10.jpg',
   },
   {
@@ -1179,6 +1283,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'โอกาสทางการเงินหรือการศึกษาใหม่ เรียนรู้และวางแผนอย่างรอบคอบ',
     meaningReversed: 'Lack of progress, procrastination, missed opportunities.',
     meaningReversedTh: 'ขาดความก้าวหน้า การผัดวันประกันพรุ่ง โอกาสที่พลาดไป',
+    description: 'A young page stands in a grassy field, intently gazing at a golden pentacle he holds in his hands. He is dressed in simple clothing befitting a page, and his focused attention suggests careful consideration and study. Behind him lies a castle and cultivated gardens, representing the potential future awaiting him. The Page of Pentacles embodies enthusiasm, curiosity, and the beginning of a promising journey toward material success. This card encourages us to pursue new opportunities with diligence, to be a student of life, and to recognize the potential in new ventures or educational pursuits.',
+    descriptionTh: 'เพจหนุ่มยืนอยู่ในทุ่งหญ้า จ้องมองอย่างจริงจังไปที่เหรียญทองคำที่เขาถือในมือ เขาแต่งตัวด้วยเสื้อผ้าธรรมดาที่เหมาะสมกับเพจ และความสนใจที่มุ่งเน้นบ่งชี้ถึงการพิจารณาอย่างรอบคอบและการศึกษา ด้านหลังเขามีปราสาทและสวนที่ปลูกแต่งเป็นอยู่ดี แทนอนาคตที่มีแนวโน้มดีที่รอเขา เพจแห่งเหรียญรวบรวมความตื่นเต้น ความอยากรู้อยากเห็น และจุดเริ่มต้นของการเดินทางที่สำเร็จไปสู่ความสำเร็จทางวัตถุ ไพ่ใบนี้สนับสนุนให้เราติดตามโอกาสใหม่ด้วยความตั้งใจ ที่จะเป็นนักเรียนของชีวิต และตระหนักถึงศักยภาพในการประกอบการใหม่หรือการศึกษา',
     image: '/tarot/p11.jpg',
   },
   {
@@ -1194,6 +1300,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'ความก้าวหน้าที่มั่นคงผ่านการทำงานหนัก วิธีการที่เชื่อถือได้และเป็นระบบ',
     meaningReversed: 'Boredom, stagnation, perfectionism.',
     meaningReversedTh: 'ความเบื่อหน่าย ความหยุดนิ่ง ความสมบูรณ์แบบเกินไป',
+    description: 'A knight sits firmly astride his horse, holding a pentacle before him with careful attention. He moves slowly and deliberately through a cultivated field, representing steady, methodical progress. His armor and horse are well-maintained, and his expression is serious and focused. The Knight of Pentacles embodies the virtues of reliability, hard work, and dedication to craft. This card represents the patient worker who achieves success through consistent effort and careful planning. He reminds us that sustainable achievement comes not from dramatic gestures, but from showing up every day and doing the work with integrity.',
+    descriptionTh: 'อัศวินนั่งแน่นอยู่บนหลังม้า ถือเหรียญไว้ดังหนึ่งโดยเอาใจใส่ เขาเคลื่อนไหวอย่างช้า ๆ และตั้งใจอย่างแน่นอนผ่านทุ่งที่ปลูกแต่งเป็นอยู่ดี เกราะและม้าของเขาดูแลรักษาไว้ได้ดี และสีหน้าของเขาจริงจังและเข้มข้น อัศวินแห่งเหรียญรวบรวมคุณธรรมของการพึ่งพาได้ ความหนัก และการทำให้เข้มข้นต่องานฝีมือ ไพ่นี้เป็นตัวแทนของคนงานอดทนที่บรรลุความสำเร็จผ่านความพยายามอย่างสม่ำเสมอและการวางแผนอย่างรอบคอบ เขาเตือนเราว่าความสำเร็จที่ยั่งยืนมาจากการปรากฏตัวทุกวันและทำงานด้วยความยุติธรรม',
     image: '/tarot/p12.jpg',
   },
   {
@@ -1209,6 +1317,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'สร้างบ้านที่สะดวกสบายและจัดหาให้คนที่รัก การดูแลอย่างปฏิบัติได้จริง',
     meaningReversed: 'Financial independence, self-care, work-home imbalance.',
     meaningReversedTh: 'ความเป็นอิสระทางการเงิน การดูแลตัวเอง ความไม่สมดุลระหว่างงานและบ้าน',
+    description: 'The Queen of Pentacles sits on a throne in a prosperous garden, holding a pentacle like a precious child, cradling it with nurturing care. She is surrounded by abundance—lush vegetation, a castle, and a rabbit at her feet symbolizing fertility and security. She is earthy, practical, and abundantly blessed. Her gaze is warm and attentive, showing her devotion to creating comfort and prosperity for those around her. The Queen of Pentacles represents the nurturing caregiver who balances material success with emotional warmth. She teaches us that true abundance includes creating a safe haven for loved ones and finding fulfillment in providing practical care.',
+    descriptionTh: 'ราชินีแห่งเหรียญนั่งบนบัลลังก์ในสวนที่เจริญรุ่งเรือง ถือเหรียญเหมือนลูกคนที่มีค่า เลี้ยงดูด้วยความดูแลอย่างอบอุ่น เธอลูมล้อมด้วยความอุดมสมบูรณ์—พืชพรรณที่เขียวชอุ่ม ปราสาท และกระต่ายที่เท้าของเธอ สัญลักษณ์ของความอุดมสมบูรณ์และความมั่นคง เธอเป็นคนหินดิน ปฏิบัติได้จริง และได้รับพรอย่างอุดมสมบูรณ์ สายตาของเธออบอุ่นและใส่ใจ แสดงให้เห็นถึงการอุทิศของเธออย่างจริงใจในการสร้างความสะดวกสบายและความรุ่งเรืองสำหรับผู้อื่นรอบตัวเธอ ราชินีแห่งเหรียญเป็นตัวแทนของผู้ดูแลอบอุ่นที่สมดุลความสำเร็จทางวัตถุกับความอบอุ่นทางอารมณ์ เธอสอนเราว่าความอุดมสมบูรณ์ที่แท้จริงรวมถึงการสร้างที่ลี้ภัยที่ปลอดภัยให้คนที่รักและการหาความสำเร็จในการจัดหาการดูแลปฏิบัติได้จริง',
     image: '/tarot/p13.jpg',
   },
   {
@@ -1224,6 +1334,8 @@ export const pentacles: TarotCard[] = [
     meaningUprightTh: 'ความสำเร็จทางการเงินผ่านวินัยและการทำงานหนัก ความเป็นผู้นำที่มั่นคง',
     meaningReversed: 'Greed, materialism, poor financial decisions.',
     meaningReversedTh: 'ความโลภ ความยึดติดวัตถุ การตัดสินใจทางการเงินที่ไม่ดี',
+    description: 'The King of Pentacles sits regally on a throne adorned with bull and pentacle imagery, his robes rich and embroidered. He holds a pentacle aloft as a scepter, commanding authority over his prosperous domain. Behind him spreads a lush garden and thriving vineyards, representing his successful ventures and accumulated wealth. He gazes ahead with confidence and assurance, secure in his mastery of the material world. The King of Pentacles embodies success, abundance, and responsible leadership. He represents the self-made man who has built his empire through shrewd decisions, hard work, and wise investments. This card encourages us to embrace abundance with wisdom and use our resources to create lasting prosperity.',
+    descriptionTh: 'ราชาแห่งเหรียญประทับบนบัลลังก์อย่างสงาม ประดับด้วยภาพวัวและเหรียญ เสื้อคลุมของเขาหรูหราและปักลวดลายอย่างศิลป์ เขาถือเหรียญสูงขึ้นเป็นไม้เท้า บัญชาอำนาจเหนืออาณาจักรที่เจริญของเขา ด้านหลังเขายืดออกมาเป็นสวนที่เขียวชอุ่มและไร่องุ่นที่เจริญรุ่งเรือง แทนการดำเนินงานที่ประสบความสำเร็จและความมั่งคั่งที่สะสมของเขา เขาจ้องมองไปข้างหน้าด้วยความมั่นใจและความเชื่อมั่น ปลอดภัยในการเชี่ยวชาญของเขาในโลกวัตถุ ราชาแห่งเหรียญรวบรวมความสำเร็จ ความอุดมสมบูรณ์ และการนำที่รับผิดชอบ เขาเป็นตัวแทนของชายผู้สร้างสรรค์ตัวเองที่สร้างจักรวรรดิของเขาผ่านการตัดสินใจที่ชาญฉลาด ความหนัก และการลงทุนที่ฉลาด ไพ่นี้สนับสนุนให้เราโอบรับความอุดมสมบูรณ์ด้วยภูมิปัญญาและใช้ทรัพยากรของเรามาสร้างความมั่งคั่งที่ยั่งยืน',
     image: '/tarot/p14.jpg',
   },
 ];
