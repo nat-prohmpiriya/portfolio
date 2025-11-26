@@ -24,6 +24,14 @@ const projects = [
     link: 'https://e-commerce-webapp-nine.vercel.app/',
     tags: ['Next.js', 'Firebase', 'Vercel Deployment', 'Stripe API', 'Tailwind CSS', 'Context API'],
   },
+  {
+    title: 'QChang App',
+    description: 'Ondemand Technician Service App that connects users with local service providers for various home services.',
+    desktopImage: '/qchang-desktop.png',
+    mobileImage: '/qchang-mobile.png',
+    link: 'https://qchang-app.com/',
+    tags: ['Nuxtjs2', 'Firebase', 'Nodejs', 'Mongodb', 'Payment 2c2p'],
+  },
 ];
 
 export default function PortfolioSection({ isDarkMode }: PortfolioSectionProps) {
