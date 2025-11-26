@@ -29,7 +29,7 @@ const projects = [
     description: 'Ondemand Technician Service App that connects users with local service providers for various home services.',
     desktopImage: '/qchang-desktop.png',
     mobileImage: '/qchang-mobile.png',
-    link: 'https://qchang-app.com/',
+    link: 'https://www.qchang.com',
     tags: ['Nuxtjs2', 'Firebase', 'Nodejs', 'Mongodb', 'Payment 2c2p'],
   },
 ];
