@@ -13,7 +13,7 @@ const projects = [
     description: 'Travel planning application that helps users discover and plan their perfect trips.',
     desktopImage: '/travel-planner-desktop-size.png',
     mobileImage: '/travel-planner-mobile.size.png',
-    link: 'https://dev.painaina.com/en',
+    link: 'https://www.painaina.com/en',
     tags: ['Next.js', 'React Native', 'Golang.Gin', 'MongoDB', 'Github Action', 'Google Cloud Run', 'Otel Sdk', "Google Map API", 'Cloundflare R2 & CDN'],
   },
   {
